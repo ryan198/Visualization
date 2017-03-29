@@ -1,0 +1,50 @@
+body{
+    background: #141E30; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #141E30 , #243B55); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #141E30 , #243B55); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1{
+    color: #FFFFFF;
+}
+
+@media only screen and (min-width: 601px) {
+    a.steak {
+        display: inline-block;
+        text-decoration: none;
+    }
+    a.steak:hover {
+        /*background-color: #606266;*/
+        opacity: .85;
+    }
+}
+
+figcaption {
+    margin: 0 0 0 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+figure {
+    padding: 0 0 0 0;
+    -webkit-margin-end: 0px;
+    -webkit-margin-start: 0px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+@media only screen and (max-width: 600px) {
+   a.steak {
+       display: block;
+       border: solid 1px #FFFFFF;
+       font-size: 16px;
+       font-weight: bold;
+       padding: 0 0 0 0;
+       margin: 0 0 0 0;
+       line-height: 18px;
+       width: 100%;
+       text-decoration: none;
+    }
+}
