@@ -1,0 +1,542 @@
+lottery,smoker,drinker,gambler,skydiver,speeder,cheater,steakEater,doneness,gender,ageRange,income,education,location,state,visited,type,population,State,Abbreviation,steakDone,Location,Count
+Lottery A,No,Yes,No,No,No,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,East North Central,Delaware,1,Rare,23,Alabama,AL,Rare,West South Central,0
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Rare,Male,> 60,"$150,000+",Graduate degree,South Atlantic,Florida,1,Medium Rare,166,Alaska,AK,Rare,Pacific,5
+Lottery B,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,> 60,"$50,000 - $99,999",Bachelor degree,New England,Georgia,1,Medium,132,Arizona,AZ,Rare,Mountain,0
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium,Male,> 60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,Maryland,1,Medium Well,75,Arkansas,AR,Rare,West South Central,0
+Lottery A,No,No,No,No,Yes,No,Yes,Medium rare,Male,18-29,"$0 - $24,999",Some college or Associate degree,West South Central,North Carolina,1,Well Done,36,California,CA,Rare,Pacific,5
+Lottery A,No,Yes,No,No,Yes,Yes,No,,Male,> 60,"$150,000+",Graduate degree,New England,South Carolina,1,,,Colorado,CO,Rare,Mountain,0
+Lottery A,No,Yes,Yes,Yes,Yes,No,Yes,Medium rare,Male,18-29,"$25,000 - $49,999",Some college or Associate degree,West North Central,Virgina,1,,,Connecticut,CT,Rare,New England,2
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,West Virgina,0,,,Delaware,DE,Rare,South Atlantic,5
+Lottery B,No,Yes,Yes,No,No,No,Yes,Medium rare,Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Pacific,"Washington, D.C.",0,,,District of Columbia,DC,Rare,South Atlantic,5
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",High school degree,South Atlantic,Illinois,0,,,Florida,FL,Rare,South Atlantic,5
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium rare,Male,18-29,"$100,000 - $149,999",Graduate degree,Middle Atlantic,Indiana,0,,,Georgia,GA,Rare,South Atlantic,5
+Lottery B,No,Yes,Yes,Yes,Yes,No,Yes,Medium,Male,18-29,"$50,000 - $99,999",Bachelor degree,West South Central,Michigan,0,,,Hawaii,HI,Rare,Pacific,5
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Rare,Male,18-29,"$50,000 - $99,999",Graduate degree,Pacific,Ohio,1,,,Idaho,ID,Rare,Mountain,0
+Lottery B,No,Yes,No,Yes,Yes,No,Yes,Medium Well,Male,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,Wisconsin,1,,,Illinois,IL,Rare,East North Central,1
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Mountain,Connecticut,1,,,Indiana,IN,Rare,East North Central,1
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,18-29,"$50,000 - $99,999",Bachelor degree,South Atlantic,Maine,0,,,Iowa,IA,Rare,West North Central,3
+Lottery B,No,Yes,No,No,Yes,No,No,,Male,18-29,"$0 - $24,999",Some college or Associate degree,Pacific,Massachusetts,1,,,Kansas,KS,Rare,West North Central,3
+Lottery A,No,Yes,Yes,No,No,No,Yes,Medium rare,Male,18-29,"$50,000 - $99,999",Bachelor degree,West North Central,New Hampshire,0,,,Kentucky,KY,Rare,East North Central,1
+Lottery B,Yes,Yes,No,No,Yes,No,No,,Male,18-29,"$150,000+",Some college or Associate degree,East North Central,Rhode Island,0,,,Louisiana,LA,Rare,East North Central,1
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Graduate degree,South Atlantic,Vermont,1,,,Maine,ME,Rare,New England,2
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,18-29,"$25,000 - $49,999",Bachelor degree,West North Central,New York,1,,,Montana,MT,Rare,Mountain,0
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium Well,,,,,,Maryland,0,,,Nebraska,NE,Rare,West North Central,3
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,West Virgina,0,,,Nevada,NV,Rare,Mountain,0
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,45-60,"$0 - $24,999",Some college or Associate degree,East North Central,Pennsylvania,0,,,New Hampshire,NH,Rare,New England,2
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,18-29,"$50,000 - $99,999",High school degree,West North Central,New Jersey,1,,,New Jersey,NJ,Rare,Middle Atlantic,6
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Male,45-60,"$25,000 - $49,999",Bachelor degree,West South Central,Iowa,1,,,New Mexico,NM,Rare,Mountain,0
+Lottery B,Yes,Yes,Yes,No,No,No,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,Kansas,1,,,New York,NY,Rare,Middle Atlantic,6
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,> 60,"$25,000 - $49,999",Graduate degree,East North Central,Minnesota,1,,,North Carolina,NC,Rare,South Atlantic,5
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Male,18-29,"$0 - $24,999",Graduate degree,South Atlantic,Missouri,0,,,North Dakota,ND,Rare,West North Central,3
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium,Male,45-60,"$50,000 - $99,999",Graduate degree,East South Central,Nebraska,1,,,Ohio,OH,Rare,East North Central,1
+Lottery A,No,Yes,No,No,No,No,No,,,,,,,North Dakota,0,,,Oklahoma,OK,Rare,West South Central,0
+Lottery B,Yes,Yes,Yes,No,Yes,No,No,,Male,30-44,,Bachelor degree,East North Central,South Dakota,1,,,Oregon,OR,Rare,Pacific,5
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,Alaska,1,,,Maryland,MD,Rare,South Atlantic,5
+Lottery B,No,No,No,No,No,,Yes,Medium rare,Male,> 60,,Graduate degree,New England,California,0,,,Massachusetts,MA,Rare,New England,2
+Lottery A,No,Yes,No,No,No,No,Yes,Medium,Male,18-29,,Some college or Associate degree,Middle Atlantic,Hawaii,0,,,Michigan,MI,Rare,East North Central,1
+Lottery B,No,Yes,No,No,Yes,No,Yes,Well,Male,18-29,"$25,000 - $49,999",High school degree,West South Central,Oregon,0,,,Minnesota,MN,Rare,West North Central,3
+Lottery A,No,Yes,Yes,No,No,No,No,,Male,45-60,"$0 - $24,999",Bachelor degree,South Atlantic,Washington,1,,,Mississippi,MS,Rare,East North Central,1
+Lottery B,No,No,No,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Bachelor degree,,Colorado,1,,,Missouri,MO,Rare,West North Central,3
+Lottery A,Yes,Yes,Yes,No,No,Yes,Yes,Medium,Male,30-44,,High school degree,East North Central,Wymoing,0,,,Pennsylvania,PA,Rare,Middle Atlantic,6
+Lottery A,No,Yes,Yes,No,Yes,No,No,,,,,,,Utah,1,,,Rhode Island,RI,Rare,New England,2
+Lottery A,No,Yes,Yes,Yes,Yes,No,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,New Mexico,0,,,South Carolina,SC,Rare,South Atlantic,5
+Lottery A,No,Yes,Yes,No,Yes,No,No,,,,,,,Nevada,1,,,South Dakota,SD,Rare,West North Central,3
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$50,000 - $99,999",Bachelor degree,Pacific,Idaho,1,,,Tennessee,TN,Rare,East North Central,1
+Lottery B,No,No,Yes,No,Yes,No,No,,Male,45-60,"$0 - $24,999",Some college or Associate degree,South Atlantic,Arizona,0,,,Texas,TX,Rare,West South Central,0
+Lottery B,No,Yes,Yes,No,No,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Bachelor degree,Pacific,Montana,1,,,Utah,UT,Rare,Mountain,0
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$0 - $24,999",High school degree,West South Central,Arkansas,0,,,Vermont,VT,Rare,New England,2
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,> 60,"$100,000 - $149,999",Bachelor degree,Pacific,Louisiana,0,,,Virginia,VA,Rare,South Atlantic,5
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium Well,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,Oklahoma,1,,,Washington,WA,Rare,Pacific,5
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,West South Central,Texas,0,,,West Virginia,WV,Rare,South Atlantic,5
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,Wisconsin,WI,Rare,East North Central,1
+Lottery B,No,Yes,No,No,Yes,No,No,,Male,18-29,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,Wyoming,WY,Rare,Mountain,0
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$0 - $24,999",Some college or Associate degree,New England,,,,,Alabama,AL,Medium Rare,West South Central,13
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Male,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Alaska,AK,Medium Rare,Pacific,26
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,45-60,,Some college or Associate degree,Middle Atlantic,,,,,Arizona,AZ,Medium Rare,Mountain,9
+Lottery A,Yes,Yes,No,No,Yes,No,Yes,Medium Well,Male,> 60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,,,,,Arkansas,AR,Medium Rare,West South Central,13
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$150,000+",Bachelor degree,West North Central,,,,,California,CA,Medium Rare,Pacific,26
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,45-60,"$150,000+",Bachelor degree,South Atlantic,,,,,Colorado,CO,Medium Rare,Mountain,9
+Lottery A,No,Yes,No,No,No,No,Yes,Medium rare,Male,45-60,,High school degree,West South Central,,,,,Connecticut,CT,Medium Rare,New England,16
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,Delaware,DE,Medium Rare,South Atlantic,30
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$100,000 - $149,999",Some college or Associate degree,East North Central,,,,,District of Columbia,DC,Medium Rare,South Atlantic,30
+Lottery B,No,No,No,No,Yes,Yes,Yes,Medium rare,Male,18-29,"$100,000 - $149,999",Some college or Associate degree,West South Central,,,,,Florida,FL,Medium Rare,South Atlantic,30
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,> 60,,Graduate degree,East North Central,,,,,Georgia,GA,Medium Rare,South Atlantic,30
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,Hawaii,HI,Medium Rare,Pacific,26
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,Idaho,ID,Medium Rare,Mountain,9
+Lottery A,Yes,No,No,Yes,No,Yes,Yes,Well,Male,18-29,"$150,000+",,Middle Atlantic,,,,,Illinois,IL,Medium Rare,East North Central,24
+Lottery B,No,No,,No,Yes,No,Yes,Medium Well,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,Indiana,IN,Medium Rare,East North Central,24
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Male,18-29,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,Iowa,IA,Medium Rare,West North Central,16
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,,Some college or Associate degree,West South Central,,,,,Kansas,KS,Medium Rare,West North Central,16
+,No,Yes,No,No,Yes,No,Yes,Medium rare,,,,,,,,,,Kentucky,KY,Medium Rare,East North Central,24
+Lottery B,No,Yes,Yes,No,Yes,No,No,,Male,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,Louisiana,LA,Medium Rare,West South Central,13
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,Maine,ME,Medium Rare,New England,16
+Lottery B,Yes,Yes,No,No,No,Yes,Yes,Medium rare,Male,18-29,"$0 - $24,999",Some college or Associate degree,South Atlantic,,,,,Montana,MT,Medium Rare,Mountain,9
+Lottery B,No,Yes,No,No,Yes,No,Yes,Rare,Male,> 60,,Graduate degree,New England,,,,,Nebraska,NE,Medium Rare,West North Central,16
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,,Graduate degree,Pacific,,,,,Nevada,NV,Medium Rare,Mountain,9
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,45-60,,Bachelor degree,East North Central,,,,,New Hampshire,NH,Medium Rare,New England,16
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$100,000 - $149,999",Bachelor degree,New England,,,,,New Jersey,NJ,Medium Rare,Middle Atlantic,14
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,45-60,,Some college or Associate degree,South Atlantic,,,,,New Mexico,NM,Medium Rare,Mountain,9
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,,Some college or Associate degree,Pacific,,,,,New York,NY,Medium Rare,Middle Atlantic,14
+Lottery B,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium Well,Male,30-44,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,North Carolina,NC,Medium Rare,South Atlantic,30
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,> 60,,Some college or Associate degree,Middle Atlantic,,,,,North Dakota,ND,Medium Rare,West North Central,16
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,,Some college or Associate degree,Pacific,,,,,Ohio,OH,Medium Rare,East North Central,24
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,> 60,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,Oklahoma,OK,Medium Rare,West South Central,13
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,Oregon,OR,Medium Rare,Pacific,26
+Lottery B,No,No,Yes,No,No,No,Yes,Medium Well,Male,> 60,"$25,000 - $49,999",Some college or Associate degree,East South Central,,,,,Maryland,MD,Medium Rare,South Atlantic,30
+Lottery B,No,Yes,No,No,Yes,No,Yes,Rare,Male,30-44,"$25,000 - $49,999",Bachelor degree,Pacific,,,,,Massachusetts,MA,Medium Rare,New England,16
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Rare,Male,> 60,,Bachelor degree,Middle Atlantic,,,,,Michigan,MI,Medium Rare,East North Central,24
+Lottery A,Yes,Yes,No,No,Yes,Yes,Yes,Medium rare,Male,18-29,,High school degree,Pacific,,,,,Minnesota,MN,Medium Rare,West North Central,16
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium Well,Male,> 60,"$150,000+",Bachelor degree,New England,,,,,Mississippi,MS,Medium Rare,East North Central,24
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,18-29,"$25,000 - $49,999",Graduate degree,West North Central,,,,,Missouri,MO,Medium Rare,West North Central,16
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,East South Central,,,,,Pennsylvania,PA,Medium Rare,Middle Atlantic,14
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,> 60,,Bachelor degree,South Atlantic,,,,,Rhode Island,RI,Medium Rare,New England,16
+Lottery A,No,Yes,No,No,Yes,No,No,,Male,> 60,"$50,000 - $99,999",Bachelor degree,West South Central,,,,,South Carolina,SC,Medium Rare,South Atlantic,30
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$25,000 - $49,999",Graduate degree,West North Central,,,,,South Dakota,SD,Medium Rare,West North Central,16
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$100,000 - $149,999",Graduate degree,East North Central,,,,,Tennessee,TN,Medium Rare,East North Central,24
+Lottery B,Yes,No,Yes,No,Yes,Yes,Yes,Medium rare,Female,> 60,"$0 - $24,999",Bachelor degree,Pacific,,,,,Texas,TX,Medium Rare,West South Central,13
+Lottery A,No,Yes,No,Yes,Yes,No,Yes,Medium rare,Male,30-44,,Some college or Associate degree,West South Central,,,,,Utah,UT,Medium Rare,Mountain,9
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Male,18-29,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,,,,,Vermont,VT,Medium Rare,New England,16
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,> 60,,Graduate degree,New England,,,,,Virginia,VA,Medium Rare,South Atlantic,30
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,18-29,"$0 - $24,999",Bachelor degree,East South Central,,,,,Washington,WA,Medium Rare,Pacific,26
+Lottery B,No,No,No,No,Yes,No,No,,Male,45-60,,Bachelor degree,Middle Atlantic,,,,,West Virginia,WV,Medium Rare,South Atlantic,30
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,45-60,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,Wisconsin,WI,Medium Rare,East North Central,24
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,> 60,"$50,000 - $99,999",Graduate degree,West North Central,,,,,Wyoming,WY,Medium Rare,Mountain,9
+Lottery B,No,Yes,Yes,No,No,No,Yes,Medium Well,Female,> 60,"$0 - $24,999",High school degree,Middle Atlantic,,,,,Alabama,AL,Medium,West South Central,6
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,30-44,,Bachelor degree,Pacific,,,,,Alaska,AK,Medium,Pacific,24
+Lottery A,No,No,Yes,No,Yes,No,Yes,Well,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,Arizona,AZ,Medium,Mountain,11
+,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,Arkansas,AR,Medium,West South Central,6
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",High school degree,East South Central,,,,,California,CA,Medium,Pacific,24
+Lottery B,No,No,Yes,No,No,No,Yes,Medium rare,Male,18-29,"$50,000 - $99,999",High school degree,Middle Atlantic,,,,,Colorado,CO,Medium,Mountain,11
+Lottery A,No,Yes,Yes,No,Yes,Yes,No,,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,Connecticut,CT,Medium,New England,10
+Lottery B,No,No,Yes,No,Yes,Yes,No,,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East South Central,,,,,Delaware,DE,Medium,South Atlantic,20
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,District of Columbia,DC,Medium,South Atlantic,20
+Lottery A,No,Yes,No,No,Yes,No,No,,Male,30-44,"$50,000 - $99,999",Less than high school degree,Mountain,,,,,Florida,FL,Medium,South Atlantic,20
+Lottery A,No,Yes,Yes,No,No,No,Yes,Medium,Female,> 60,"$25,000 - $49,999",High school degree,Middle Atlantic,,,,,Georgia,GA,Medium,South Atlantic,20
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Well,Male,18-29,,Some college or Associate degree,Middle Atlantic,,,,,Hawaii,HI,Medium,Pacific,24
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,> 60,"$0 - $24,999",Graduate degree,Middle Atlantic,,,,,Idaho,ID,Medium,Mountain,11
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,Illinois,IL,Medium,East North Central,22
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,Indiana,IN,Medium,East North Central,22
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,Iowa,IA,Medium,West North Central,11
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,Kansas,KS,Medium,West North Central,11
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East South Central,,,,,Kentucky,KY,Medium,East North Central,22
+Lottery B,No,Yes,No,No,No,Yes,No,,,,,,,,,,,Louisiana,LA,Medium,West South Central,6
+Lottery B,No,Yes,Yes,Yes,Yes,Yes,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,Maine,ME,Medium,New England,10
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Graduate degree,Pacific,,,,,Montana,MT,Medium,Mountain,11
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,,,,,,,,,,Nebraska,NE,Medium,West North Central,11
+Lottery B,No,Yes,No,No,No,Yes,No,,Female,> 60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Nevada,NV,Medium,Mountain,11
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,> 60,"$25,000 - $49,999",Some college or Associate degree,East North Central,,,,,New Hampshire,NH,Medium,New England,10
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,New Jersey,NJ,Medium,Middle Atlantic,18
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,New Mexico,NM,Medium,Mountain,11
+Lottery A,No,No,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$25,000 - $49,999",Bachelor degree,East North Central,,,,,New York,NY,Medium,Middle Atlantic,18
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium Well,Female,> 60,,Bachelor degree,West North Central,,,,,North Carolina,NC,Medium,South Atlantic,20
+Lottery A,Yes,No,No,No,No,No,No,,Female,> 60,"$25,000 - $49,999",High school degree,Pacific,,,,,North Dakota,ND,Medium,West North Central,11
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$150,000+",Graduate degree,South Atlantic,,,,,Ohio,OH,Medium,East North Central,22
+Lottery B,No,Yes,No,No,No,No,No,,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,Oklahoma,OK,Medium,West South Central,6
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Female,> 60,,Graduate degree,West North Central,,,,,Oregon,OR,Medium,Pacific,24
+Lottery A,Yes,Yes,Yes,No,No,Yes,No,,Male,18-29,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,Maryland,MD,Medium,South Atlantic,20
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,> 60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,Massachusetts,MA,Medium,New England,10
+Lottery A,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,30-44,"$150,000+",Graduate degree,Middle Atlantic,,,,,Michigan,MI,Medium,East North Central,22
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,Minnesota,MN,Medium,West North Central,11
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,18-29,"$0 - $24,999",High school degree,Pacific,,,,,Mississippi,MS,Medium,East North Central,22
+Lottery B,No,No,No,No,No,No,No,,Female,> 60,"$25,000 - $49,999",Graduate degree,Middle Atlantic,,,,,Missouri,MO,Medium,West North Central,11
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Female,18-29,"$25,000 - $49,999",High school degree,West North Central,,,,,Pennsylvania,PA,Medium,Middle Atlantic,18
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,> 60,"$150,000+",Graduate degree,Middle Atlantic,,,,,Rhode Island,RI,Medium,New England,10
+Lottery B,Yes,No,Yes,No,Yes,No,No,,Female,> 60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,,,,,South Carolina,SC,Medium,South Atlantic,20
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Pacific,,,,,South Dakota,SD,Medium,West North Central,11
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$150,000+",Some college or Associate degree,Pacific,,,,,Tennessee,TN,Medium,East North Central,22
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Texas,TX,Medium,West South Central,6
+Lottery A,No,No,No,No,Yes,No,Yes,Medium rare,,,,,,,,,,Utah,UT,Medium,Mountain,11
+Lottery B,No,No,No,No,Yes,Yes,Yes,Medium,Male,18-29,"$0 - $24,999",Bachelor degree,East North Central,,,,,Vermont,VT,Medium,New England,10
+Lottery B,Yes,No,No,No,No,No,Yes,Rare,Female,> 60,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,,,,,Virginia,VA,Medium,South Atlantic,20
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,New England,,,,,Washington,WA,Medium,Pacific,24
+Lottery B,No,No,Yes,No,Yes,Yes,Yes,Well,Female,18-29,"$25,000 - $49,999",Some college or Associate degree,New England,,,,,West Virginia,WV,Medium,South Atlantic,20
+Lottery A,No,Yes,Yes,,Yes,No,Yes,Medium rare,Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,Wisconsin,WI,Medium,East North Central,22
+Lottery A,Yes,No,No,Yes,No,No,Yes,Medium Well,Female,18-29,"$25,000 - $49,999",High school degree,Middle Atlantic,,,,,Wyoming,WY,Medium,Mountain,11
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Well,Male,45-60,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,Alabama,AL,Medium Well,West South Central,3
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,Alaska,AK,Medium Well,Pacific,7
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,Arizona,AZ,Medium Well,Mountain,8
+Lottery A,No,No,No,No,No,No,No,,Female,18-29,"$100,000 - $149,999",High school degree,Mountain,,,,,Arkansas,AR,Medium Well,West South Central,3
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,18-29,,Bachelor degree,West North Central,,,,,California,CA,Medium Well,Pacific,7
+Lottery B,No,Yes,Yes,No,No,No,Yes,Medium,Female,> 60,"$0 - $24,999",Some college or Associate degree,South Atlantic,,,,,Colorado,CO,Medium Well,Mountain,8
+Lottery B,No,Yes,Yes,Yes,Yes,Yes,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Connecticut,CT,Medium Well,New England,5
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,18-29,,Graduate degree,South Atlantic,,,,,Delaware,DE,Medium Well,South Atlantic,15
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,,,,,,,,,,District of Columbia,DC,Medium Well,South Atlantic,15
+Lottery B,No,Yes,Yes,No,Yes,No,No,,Female,18-29,"$0 - $24,999",Bachelor degree,East North Central,,,,,Florida,FL,Medium Well,South Atlantic,15
+Lottery B,,Yes,No,No,Yes,No,Yes,Rare,Male,18-29,"$50,000 - $99,999",High school degree,East North Central,,,,,Georgia,GA,Medium Well,South Atlantic,15
+Lottery B,No,Yes,No,No,Yes,No,Yes,Well,,,,,,,,,,Hawaii,HI,Medium Well,Pacific,7
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$150,000+",Graduate degree,West North Central,,,,,Idaho,ID,Medium Well,Mountain,8
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,> 60,,Graduate degree,East North Central,,,,,Illinois,IL,Medium Well,East North Central,11
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Female,> 60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,Indiana,IN,Medium Well,East North Central,11
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,,Some college or Associate degree,East South Central,,,,,Iowa,IA,Medium Well,West North Central,5
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,Kansas,KS,Medium Well,West North Central,5
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,18-29,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,Kentucky,KY,Medium Well,East North Central,11
+Lottery A,No,No,Yes,No,Yes,No,Yes,Well,Female,45-60,,Some college or Associate degree,East South Central,,,,,Louisiana,LA,Medium Well,West South Central,3
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,> 60,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,Maine,ME,Medium Well,New England,5
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Well,Male,45-60,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,Montana,MT,Medium Well,Mountain,8
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$0 - $24,999",Bachelor degree,South Atlantic,,,,,Nebraska,NE,Medium Well,West North Central,5
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,Mountain,,,,,Nevada,NV,Medium Well,Mountain,8
+Lottery B,No,No,No,No,Yes,No,No,,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,,,,,,New Hampshire,NH,Medium Well,New England,5
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,18-29,,Bachelor degree,East North Central,,,,,New Jersey,NJ,Medium Well,Middle Atlantic,13
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium rare,Female,45-60,"$100,000 - $149,999",Graduate degree,East North Central,,,,,New Mexico,NM,Medium Well,Mountain,8
+Lottery A,No,No,No,No,Yes,No,No,,Female,45-60,"$150,000+",Graduate degree,West North Central,,,,,New York,NY,Medium Well,Middle Atlantic,13
+Lottery B,No,No,No,No,No,No,Yes,Well,Male,30-44,,Graduate degree,Mountain,,,,,North Carolina,NC,Medium Well,South Atlantic,15
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Female,18-29,"$100,000 - $149,999",Some college or Associate degree,East South Central,,,,,North Dakota,ND,Medium Well,West North Central,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,,,,,,,,,,Ohio,OH,Medium Well,East North Central,11
+Lottery B,No,Yes,No,No,Yes,No,Yes,Well,Female,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,Oklahoma,OK,Medium Well,West South Central,3
+Lottery B,No,No,No,Yes,Yes,No,No,,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,New England,,,,,Oregon,OR,Medium Well,Pacific,7
+Lottery B,No,No,No,No,Yes,Yes,Yes,Medium Well,Female,18-29,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,,,,,Maryland,MD,Medium Well,South Atlantic,15
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium Well,Female,30-44,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,Massachusetts,MA,Medium Well,New England,5
+Lottery B,No,Yes,No,No,Yes,,Yes,Medium Well,Female,45-60,,Graduate degree,Middle Atlantic,,,,,Michigan,MI,Medium Well,East North Central,11
+Lottery A,No,Yes,No,No,Yes,No,No,,Male,30-44,"$150,000+",Graduate degree,Pacific,,,,,Minnesota,MN,Medium Well,West North Central,5
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Well,Male,> 60,"$0 - $24,999",Bachelor degree,West South Central,,,,,Mississippi,MS,Medium Well,East North Central,11
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Rare,Female,30-44,"$150,000+",Some college or Associate degree,Pacific,,,,,Missouri,MO,Medium Well,West North Central,5
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,Pennsylvania,PA,Medium Well,Middle Atlantic,13
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$50,000 - $99,999",Graduate degree,Middle Atlantic,,,,,Rhode Island,RI,Medium Well,New England,5
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$150,000+",Graduate degree,Middle Atlantic,,,,,South Carolina,SC,Medium Well,South Atlantic,15
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Rare,Female,> 60,"$25,000 - $49,999",Graduate degree,Pacific,,,,,South Dakota,SD,Medium Well,West North Central,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,,Bachelor degree,West North Central,,,,,Tennessee,TN,Medium Well,East North Central,11
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Well,Female,18-29,"$100,000 - $149,999",Less than high school degree,Pacific,,,,,Texas,TX,Medium Well,West South Central,3
+Lottery B,No,No,Yes,No,Yes,Yes,No,,Female,> 60,"$50,000 - $99,999",High school degree,East North Central,,,,,Utah,UT,Medium Well,Mountain,8
+Lottery A,No,Yes,No,Yes,Yes,No,No,,Female,18-29,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,,,,,Vermont,VT,Medium Well,New England,5
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,18-29,"$50,000 - $99,999",Graduate degree,East South Central,,,,,Virginia,VA,Medium Well,South Atlantic,15
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,East South Central,,,,,Washington,WA,Medium Well,Pacific,7
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,45-60,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,West Virginia,WV,Medium Well,South Atlantic,15
+Lottery A,Yes,Yes,Yes,No,Yes,No,No,,Female,30-44,"$100,000 - $149,999",High school degree,Middle Atlantic,,,,,Wisconsin,WI,Medium Well,East North Central,11
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$150,000+",Bachelor degree,New England,,,,,Wyoming,WY,Medium Well,Mountain,8
+Lottery A,No,No,No,No,No,No,No,,Female,> 60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,Alabama,AL,Well Done,West South Central,2
+Lottery B,No,Yes,No,No,Yes,No,No,,Male,18-29,"$25,000 - $49,999",Bachelor degree,East North Central,,,,,Alaska,AK,Well Done,Pacific,5
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,,Graduate degree,New England,,,,,Arizona,AZ,Well Done,Mountain,6
+Lottery B,No,Yes,No,No,Yes,No,No,,Male,45-60,"$0 - $24,999",Bachelor degree,East North Central,,,,,Arkansas,AR,Well Done,West South Central,2
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Well,Female,30-44,"$50,000 - $99,999",Graduate degree,East North Central,,,,,California,CA,Well Done,Pacific,5
+Lottery B,No,No,No,No,Yes,No,Yes,Well,Female,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Colorado,CO,Well Done,Mountain,6
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,West North Central,,,,,Connecticut,CT,Well Done,New England,1
+Lottery A,No,Yes,No,Yes,Yes,No,Yes,Medium rare,Female,30-44,"$100,000 - $149,999",Graduate degree,West South Central,,,,,Delaware,DE,Well Done,South Atlantic,5
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,45-60,,Bachelor degree,Middle Atlantic,,,,,District of Columbia,DC,Well Done,South Atlantic,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,Florida,FL,Well Done,South Atlantic,5
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,Georgia,GA,Well Done,South Atlantic,5
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Female,45-60,,Graduate degree,East North Central,,,,,Hawaii,HI,Well Done,Pacific,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$25,000 - $49,999",Bachelor degree,East North Central,,,,,Idaho,ID,Well Done,Mountain,6
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium,Male,18-29,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,,,,,Illinois,IL,Well Done,East North Central,7
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Female,> 60,,High school degree,New England,,,,,Indiana,IN,Well Done,East North Central,7
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Bachelor degree,West North Central,,,,,Iowa,IA,Well Done,West North Central,0
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,30-44,"$100,000 - $149,999",Graduate degree,East North Central,,,,,Kansas,KS,Well Done,West North Central,0
+Lottery B,No,Yes,Yes,No,Yes,No,No,,Male,30-44,"$100,000 - $149,999",Graduate degree,New England,,,,,Kentucky,KY,Well Done,East North Central,7
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$150,000+",Bachelor degree,West North Central,,,,,Louisiana,LA,Well Done,West South Central,2
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Female,45-60,"$150,000+",Bachelor degree,West South Central,,,,,Maine,ME,Well Done,New England,1
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$25,000 - $49,999",High school degree,South Atlantic,,,,,Montana,MT,Well Done,Mountain,6
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium Well,Female,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,Nebraska,NE,Well Done,West North Central,0
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,> 60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,Nevada,NV,Well Done,Mountain,6
+Lottery B,No,No,No,No,Yes,No,No,,Female,18-29,"$0 - $24,999",High school degree,Pacific,,,,,New Hampshire,NH,Well Done,New England,1
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Bachelor degree,West South Central,,,,,New Jersey,NJ,Well Done,Middle Atlantic,6
+Lottery B,No,Yes,Yes,No,No,No,Yes,Well,Female,45-60,"$100,000 - $149,999",Bachelor degree,Mountain,,,,,New Mexico,NM,Well Done,Mountain,6
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Pacific,,,,,New York,NY,Well Done,Middle Atlantic,6
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,North Carolina,NC,Well Done,South Atlantic,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Graduate degree,West North Central,,,,,North Dakota,ND,Well Done,West North Central,0
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Well,Female,45-60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,,,,,Ohio,OH,Well Done,East North Central,7
+Lottery A,,No,,No,No,No,Yes,Medium Well,Female,30-44,"$0 - $24,999",Bachelor degree,Middle Atlantic,,,,,Oklahoma,OK,Well Done,West South Central,2
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,30-44,"$25,000 - $49,999",Bachelor degree,South Atlantic,,,,,Oregon,OR,Well Done,Pacific,5
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Graduate degree,East South Central,,,,,Maryland,MD,Well Done,South Atlantic,5
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Female,30-44,"$150,000+",Bachelor degree,New England,,,,,Massachusetts,MA,Well Done,New England,1
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,18-29,"$50,000 - $99,999",Graduate degree,West South Central,,,,,Michigan,MI,Well Done,East North Central,7
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,Minnesota,MN,Well Done,West North Central,0
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,18-29,"$0 - $24,999",Some college or Associate degree,South Atlantic,,,,,Mississippi,MS,Well Done,East North Central,7
+Lottery B,No,No,No,No,Yes,No,Yes,Medium,Male,18-29,,High school degree,East North Central,,,,,Missouri,MO,Well Done,West North Central,0
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,45-60,"$150,000+",Bachelor degree,East North Central,,,,,Pennsylvania,PA,Well Done,Middle Atlantic,6
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,Rhode Island,RI,Well Done,New England,1
+Lottery A,No,Yes,No,No,No,No,Yes,Medium rare,Female,> 60,,Bachelor degree,New England,,,,,South Carolina,SC,Well Done,South Atlantic,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Rare,Male,45-60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,,,,,South Dakota,SD,Well Done,West North Central,0
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,45-60,,Graduate degree,Pacific,,,,,Tennessee,TN,Well Done,East North Central,7
+Lottery A,No,No,No,No,Yes,No,Yes,Well,Female,45-60,"$150,000+",Bachelor degree,South Atlantic,,,,,Texas,TX,Well Done,West South Central,2
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,> 60,,Some college or Associate degree,South Atlantic,,,,,Utah,UT,Well Done,Mountain,6
+Lottery B,No,No,No,No,No,No,Yes,Medium rare,Female,> 60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,,,,,Vermont,VT,Well Done,New England,1
+,No,No,No,No,Yes,No,Yes,Medium rare,Male,45-60,,Some college or Associate degree,West North Central,,,,,Virginia,VA,Well Done,South Atlantic,5
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,30-44,"$25,000 - $49,999",Bachelor degree,New England,,,,,Washington,WA,Well Done,Pacific,5
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Rare,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,West North Central,,,,,West Virginia,WV,Well Done,South Atlantic,5
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,> 60,"$150,000+",Bachelor degree,South Atlantic,,,,,Wisconsin,WI,Well Done,East North Central,7
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,Wyoming,WY,Well Done,Mountain,6
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,30-44,"$100,000 - $149,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Rare,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,Yes,No,No,No,No,,Female,45-60,"$150,000+",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,No,No,Yes,Medium rare,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,Yes,Yes,No,No,Yes,No,Yes,Medium rare,Female,18-29,"$0 - $24,999",Graduate degree,East South Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,No,,Male,45-60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,Yes,Yes,No,Yes,Medium Well,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Female,> 60,"$25,000 - $49,999",High school degree,New England,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Male,45-60,"$100,000 - $149,999",Bachelor degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,30-44,"$50,000 - $99,999",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Rare,Female,45-60,"$100,000 - $149,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,Yes,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Bachelor degree,New England,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Male,45-60,"$50,000 - $99,999",Bachelor degree,West North Central,,,,,,,,,
+Lottery B,No,No,No,Yes,Yes,No,Yes,Medium Well,Male,18-29,,Some college or Associate degree,New England,,,,,,,,,
+,No,No,No,No,No,No,Yes,Medium Well,Female,30-44,"$25,000 - $49,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,45-60,,Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Rare,Female,> 60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,No,No,No,No,No,No,,Female,18-29,,Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,No,,Female,45-60,"$50,000 - $99,999",Bachelor degree,East South Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Rare,Female,45-60,,Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,Yes,No,No,Yes,Medium,Female,45-60,"$25,000 - $49,999",Some college or Associate degree,East South Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Well,Female,45-60,"$100,000 - $149,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$50,000 - $99,999",Bachelor degree,West North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,Yes,Yes,No,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Bachelor degree,West South Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,18-29,"$0 - $24,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,No,Yes,No,No,No,No,,Female,45-60,"$25,000 - $49,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,,,,,,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,,,,,,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,Yes,No,,Female,30-44,"$25,000 - $49,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$0 - $24,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Male,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,18-29,"$25,000 - $49,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,18-29,"$100,000 - $149,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,18-29,"$25,000 - $49,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,Female,30-44,"$50,000 - $99,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,No,No,No,No,Yes,Medium,Female,30-44,"$150,000+",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,Yes,Yes,No,Yes,Medium,Female,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,,Yes,No,Yes,Medium Well,Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,No,,Female,30-44,,Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$25,000 - $49,999",Graduate degree,West North Central,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Female,45-60,"$150,000+",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,No,No,Yes,Yes,No,No,,Female,18-29,"$150,000+",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Male,18-29,"$0 - $24,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium rare,Male,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium rare,Female,> 60,"$25,000 - $49,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$150,000+",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,,Some college or Associate degree,West North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,18-29,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,30-44,"$150,000+",Graduate degree,West North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,Yes,Yes,Yes,Yes,Medium rare,Male,45-60,"$25,000 - $49,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$150,000+",Graduate degree,Pacific,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,No,,Female,30-44,"$150,000+",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,30-44,"$100,000 - $149,999",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,,,,,,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$25,000 - $49,999",Graduate degree,New England,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,Yes,No,,Female,45-60,"$150,000+",Graduate degree,East North Central,,,,,,,,,
+Lottery A,Yes,No,No,Yes,Yes,Yes,Yes,Medium rare,Female,45-60,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,,,,,,,,,,,,,,
+Lottery B,No,Yes,,No,Yes,Yes,No,,Female,45-60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,45-60,"$50,000 - $99,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$150,000+",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,,High school degree,East South Central,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Graduate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,,,,,,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Well,Male,45-60,"$50,000 - $99,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$100,000 - $149,999",Graduate degree,Pacific,,,,,,,,,
+Lottery A,No,No,No,No,Yes,Yes,No,,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$150,000+",Graduate degree,New England,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,30-44,"$50,000 - $99,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$100,000 - $149,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,Yes,No,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,No,Yes,No,Yes,No,Yes,Medium,Male,45-60,,Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery B,No,No,Yes,No,Yes,No,Yes,Rare,Female,30-44,"$0 - $24,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,,,,,,,,,,,,,,
+Lottery B,No,No,No,No,No,Yes,Yes,Well,Female,30-44,,High school degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$150,000+",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,> 60,"$0 - $24,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Well,Female,18-29,,Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,30-44,"$150,000+",Graduate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$0 - $24,999",High school degree,West North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,Yes,Yes,Well,Male,30-44,"$0 - $24,999",High school degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,No,Yes,Medium Well,,,,,,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,Yes,Yes,Yes,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,West South Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,,,,,,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,,,,,,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,45-60,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Well,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,,High school degree,East North Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Female,> 60,"$25,000 - $49,999",Graduate degree,Pacific,,,,,,,,,
+Lottery A,Yes,Yes,No,No,,Yes,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,45-60,"$150,000+",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,18-29,"$0 - $24,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,,No,Yes,No,Yes,Medium Well,Female,> 60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,No,,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Female,45-60,"$150,000+",Graduate degree,East South Central,,,,,,,,,
+Lottery A,No,Yes,No,No,No,No,Yes,Medium,Female,18-29,"$0 - $24,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,45-60,"$150,000+",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,New England,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,30-44,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,Yes,Yes,No,Yes,Well,Female,30-44,,Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,,Bachelor degree,Mountain,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,No,No,No,No,No,Yes,Medium rare,Female,> 60,,Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,,,,,,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,No,No,No,Yes,Yes,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,45-60,"$100,000 - $149,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,No,,Male,30-44,,Bachelor degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,,,,,,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,30-44,"$25,000 - $49,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,30-44,"$100,000 - $149,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,Yes,Yes,Yes,No,Yes,Medium,Male,> 60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,Yes,Yes,No,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium rare,Female,45-60,,Graduate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,No,,Female,45-60,"$150,000+",Graduate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium Well,,,,,,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,No,,Male,18-29,"$0 - $24,999",Some college or Associate degree,West North Central,,,,,,,,,
+Lottery B,No,No,No,Yes,Yes,No,Yes,Rare,Female,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium Well,Female,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium,Female,30-44,"$50,000 - $99,999",Bachelor degree,West South Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$100,000 - $149,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium Well,Female,30-44,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Female,30-44,"$25,000 - $49,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Well,Female,> 60,,Graduate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,"$150,000+",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,No,,Male,18-29,,Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,> 60,"$50,000 - $99,999",Graduate degree,New England,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,30-44,"$150,000+",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium Well,Female,30-44,"$100,000 - $149,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium,Male,45-60,"$50,000 - $99,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,No,No,No,,Female,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium,Female,30-44,"$150,000+",Bachelor degree,Mountain,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,Male,30-44,"$0 - $24,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,45-60,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Female,> 60,,Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",High school degree,East South Central,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,Male,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,No,No,No,,Female,45-60,,Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,No,,Male,> 60,,Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Well,Female,30-44,,Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,> 60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$50,000 - $99,999",Some college or Associate degree,West South Central,,,,,,,,,
+Lottery B,No,No,Yes,No,No,Yes,No,,Female,18-29,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Well,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,No,No,No,No,No,No,,Male,30-44,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium,,,,,,,,,,,,,,
+Lottery B,Yes,Yes,No,No,No,No,Yes,Medium Well,Male,18-29,"$0 - $24,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Well,Female,> 60,"$50,000 - $99,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,18-29,,Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Female,18-29,,High school degree,West North Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,No,Yes,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Graduate degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Well,Male,30-44,,Bachelor degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,45-60,"$150,000+",Graduate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Well,Female,45-60,,Some college or Associate degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,Yes,No,,No,Yes,Well,Female,45-60,"$150,000+",High school degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,No,,Female,> 60,"$50,000 - $99,999",Graduate degree,West South Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,West South Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Rare,Female,45-60,"$50,000 - $99,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,East South Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Rare,,,,,,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,,,,,,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,> 60,,Graduate degree,New England,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,Yes,Yes,Medium,Male,45-60,"$100,000 - $149,999",Bachelor degree,West South Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,> 60,"$0 - $24,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,45-60,"$150,000+",Graduate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,"$100,000 - $149,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$100,000 - $149,999",Bachelor degree,West North Central,,,,,,,,,
+Lottery A,No,No,Yes,No,No,No,Yes,Medium,Female,> 60,"$50,000 - $99,999",High school degree,Mountain,,,,,,,,,
+Lottery A,No,No,No,No,No,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,No,No,No,Yes,Yes,Yes,Medium,Female,45-60,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Rare,Male,18-29,"$25,000 - $49,999",Some college or Associate degree,West North Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,Yes,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,No,Yes,Medium,Female,30-44,"$100,000 - $149,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,No,No,No,Yes,Yes,Yes,Medium,Female,45-60,,Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Rare,Female,18-29,"$50,000 - $99,999",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,Yes,Yes,Medium,Female,30-44,"$50,000 - $99,999",Bachelor degree,East North Central,,,,,,,,,
+Lottery A,,No,Yes,No,Yes,No,Yes,Medium,Female,45-60,,Bachelor degree,New England,,,,,,,,,
+Lottery A,Yes,No,No,No,Yes,No,Yes,Medium rare,Female,45-60,"$0 - $24,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,"$150,000+",Graduate degree,Pacific,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,No,,Female,18-29,"$25,000 - $49,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$0 - $24,999",Bachelor degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,45-60,,Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,30-44,"$25,000 - $49,999",Bachelor degree,West South Central,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Female,45-60,"$25,000 - $49,999",High school degree,Pacific,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,30-44,,Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$100,000 - $149,999",Graduate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,18-29,"$25,000 - $49,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium rare,Female,30-44,,Graduate degree,New England,,,,,,,,,
+Lottery A,No,Yes,No,No,No,No,No,,Male,45-60,"$25,000 - $49,999",High school degree,West South Central,,,,,,,,,
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium,Male,18-29,"$0 - $24,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium Well,Male,> 60,"$100,000 - $149,999",Graduate degree,East South Central,,,,,,,,,
+Lottery A,Yes,Yes,No,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Female,45-60,"$100,000 - $149,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Rare,Male,> 60,"$150,000+",Graduate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,No,,Female,30-44,"$25,000 - $49,999",Bachelor degree,East South Central,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,Yes,Yes,Medium Well,Male,45-60,"$150,000+",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,,Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium Well,Male,18-29,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium Well,Male,45-60,,Graduate degree,West South Central,,,,,,,,,
+Lottery B,No,Yes,No,Yes,Yes,No,No,,Female,30-44,"$150,000+",Graduate degree,New England,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium,Female,18-29,"$0 - $24,999",Some college or Associate degree,New England,,,,,,,,,
+Lottery B,No,Yes,Yes,Yes,Yes,No,Yes,Medium,Male,45-60,"$0 - $24,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,No,No,No,Yes,Medium rare,Female,45-60,"$0 - $24,999",Some college or Associate degree,West South Central,,,,,,,,,
+Lottery A,Yes,Yes,No,No,Yes,No,Yes,Medium,Female,45-60,"$150,000+",Bachelor degree,New England,,,,,,,,,
+Lottery B,No,No,No,No,No,No,Yes,Medium rare,Female,> 60,"$50,000 - $99,999",Graduate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Well,Female,> 60,"$100,000 - $149,999",Bachelor degree,East South Central,,,,,,,,,
+Lottery A,Yes,No,No,No,No,No,Yes,Medium Well,Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,18-29,,Some college or Associate degree,West North Central,,,,,,,,,
+Lottery B,Yes,Yes,No,No,Yes,No,Yes,Medium rare,Male,18-29,"$0 - $24,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,No,,Male,> 60,"$50,000 - $99,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,Yes,Yes,Medium rare,Male,18-29,"$25,000 - $49,999",High school degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,No,,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,> 60,,Graduate degree,New England,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,Yes,Medium rare,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,No,No,No,No,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Graduate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium Well,,,,,,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium,Male,> 60,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,45-60,,High school degree,Mountain,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,Yes,Medium,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,New England,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,No,,Female,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,Yes,Medium Well,Male,30-44,"$50,000 - $99,999",Graduate degree,East North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,45-60,"$150,000+",Graduate degree,Mountain,,,,,,,,,
+Lottery B,,No,No,No,No,No,Yes,Well,Male,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,New England,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium Well,Female,30-44,"$0 - $24,999",Some college or Associate degree,West South Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,No,,Female,18-29,,Bachelor degree,East North Central,,,,,,,,,
+Lottery B,No,Yes,Yes,,Yes,Yes,No,,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,West South Central,,,,,,,,,
+Lottery B,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,30-44,"$100,000 - $149,999",Graduate degree,East North Central,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Female,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,No,Yes,Yes,Well,Male,30-44,"$0 - $24,999",Some college or Associate degree,East North Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,Yes,Yes,No,No,,Female,30-44,"$0 - $24,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,Yes,No,Yes,No,Yes,Yes,No,,Female,30-44,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,Yes,Well,Female,30-44,,Some college or Associate degree,East South Central,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium Well,Male,> 60,"$150,000+",Graduate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,Yes,No,,Female,30-44,"$0 - $24,999",Graduate degree,Pacific,,,,,,,,,
+Lottery A,No,No,No,No,No,No,No,,Female,45-60,"$25,000 - $49,999",High school degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,No,Yes,Medium rare,Male,> 60,"$150,000+",Bachelor degree,Middle Atlantic,,,,,,,,,
+Lottery B,Yes,Yes,Yes,Yes,Yes,No,Yes,Medium Well,Male,45-60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium rare,Female,45-60,,Some college or Associate degree,Pacific,,,,,,,,,
+Lottery A,No,Yes,No,No,Yes,Yes,No,,Male,45-60,"$50,000 - $99,999",Bachelor degree,West South Central,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Female,18-29,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,,,,,,,,,
+Lottery A,No,No,No,No,Yes,No,No,,Male,45-60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium,Male,> 60,,Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,No,,Male,18-29,"$50,000 - $99,999",Some college or Associate degree,West North Central,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,,,,,,,,,
+Lottery B,No,Yes,No,No,Yes,No,Yes,Medium Well,Female,> 60,"$100,000 - $149,999",Bachelor degree,West North Central,,,,,,,,,
+Lottery A,No,No,Yes,No,Yes,No,Yes,Medium Well,Male,30-44,"$50,000 - $99,999",Graduate degree,Pacific,,,,,,,,,
+Lottery B,No,No,No,No,Yes,No,Yes,Medium rare,Female,18-29,"$25,000 - $49,999",High school degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,No,Yes,Yes,No,No,,Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Mountain,,,,,,,,,
+Lottery A,Yes,Yes,Yes,No,Yes,No,Yes,Medium rare,Male,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,,,,,,,,,
+Lottery A,No,Yes,Yes,No,Yes,Yes,No,,Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,,,,,,,,,
+Lottery B,Yes,Yes,Yes,No,Yes,No,Yes,Medium,Male,18-29,"$0 - $24,999",,Mountain,,,,,,,,,
