@@ -1,0 +1,1195 @@
+{
+  "name": "steakEaters",
+  "children": [
+    {
+      "name": "Rare",
+      "children": [
+        {
+          "name": "East North Central: 1",
+          "children": [
+            {
+              "name": "East North Central",
+              "children": [
+                {
+                  "name": "Speeder: 1",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker: 1",
+                  "size": 100
+                },
+                {
+                  "name": "Income: Avg $50k",
+                  "size": 5000
+                },
+                {
+                  "name": "Age: Avg 24",
+                  "size": 240
+                },
+                {
+                  "name": "Male: 1",
+                  "size": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "South Atlantic",
+          "children":  [
+            {
+              "name": "South Atlantic",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 300
+                },
+                {
+                  "name": "Speeder",
+                  "size": 500
+                },
+                {
+                  "name": "Income",
+                  "size": 10000
+                },
+                {
+                  "name": "Age",
+                  "size": 524
+                },
+                {
+                  "name": "Gambler",
+                  "size": 300
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 100
+                },
+                {
+                  "name": "Male",
+                  "size": 200
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 200
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 300
+                },
+                {
+                  "name": "Female",
+                  "size": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New England",
+          "children": [
+            {
+              "name": "New England",
+              "children": [
+                {
+                  "name": "Drinker",
+                  "size": 200
+                },
+                {
+                  "name": "Speeder",
+                  "size": 200
+                },
+                {
+                  "name": "Income",
+                  "size": 7500
+                },
+                {
+                  "name": "Age",
+                  "size": 450
+                },
+                {
+                  "name": "Male",
+                  "size": 100
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 200
+                },
+                {
+                  "name": "Female",
+                  "size": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Middle Atlantic",
+          "children": [
+            {
+              "name": "Middle Atlantic",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 500
+                },
+                {
+                  "name": "Speeder",
+                  "size": 500
+                },
+                {
+                  "name": "Income",
+                  "size": 10000
+                },
+                {
+                  "name": "Age",
+                  "size": 600
+                },
+                {
+                  "name": "Gambler",
+                  "size": 300
+                },
+                {
+                  "name": "Male",
+                  "size": 300
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 200
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 400
+                },
+                {
+                  "name": "Female",
+                  "size": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "West North Central",
+          "children": [
+            {
+              "name": "West North Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 300
+                },
+                {
+                  "name": "Speeder",
+                  "size": 300
+                },
+                {
+                  "name": "Income",
+                  "size": 5500
+                },
+                {
+                  "name": "Age",
+                  "size": 334
+                },
+                {
+                  "name": "Gambler",
+                  "size": 200
+                },
+                {
+                  "name": "Male",
+                  "size": 100
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 200
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 100
+                },
+                {
+                  "name": "Female",
+                  "size": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pacific",
+          "children": [
+            {
+              "name": "Pacific",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 200
+                },
+                {
+                  "name": "Drinker",
+                  "size": 500
+                },
+                {
+                  "name": "Speeder",
+                  "size": 500
+                },
+                {
+                  "name": "Income",
+                  "size": 4500
+                },
+                {
+                  "name": "Age",
+                  "size": 410
+                },
+                {
+                  "name": "Gambler",
+                  "size": 300
+                },
+                {
+                  "name": "Male",
+                  "size": 200
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 300
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 200
+                },
+                {
+                  "name": "Female",
+                  "size": 300
+                }
+              ]
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "name": "Medium Rare",
+      "children": [
+        {
+          "name": "East North Central",
+          "children": [
+            {
+              "name": "East North Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 300
+                },
+                {
+                  "name": "Drinker",
+                  "size": 2000
+                },
+                {
+                  "name": "Speeder",
+                  "size": 2300
+                },
+                {
+                  "name": "Income",
+                  "size": 8100
+                },
+                {
+                  "name": "Age",
+                  "size": 424
+                },
+                {
+                  "name": "Gambler",
+                  "size": 1200
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 200
+                },
+                {
+                  "name": "Male",
+                  "size": 900
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 1400
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 1000
+                },
+                {
+                  "name": "Female",
+                  "size": 1500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "South Atlantic",
+          "children": [
+            {
+              "name": "South Atlantic",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 600
+                },
+                {
+                  "name": "Drinker",
+                  "size": 2300
+                },
+                {
+                  "name": "Speeder",
+                  "size": 2700
+                },
+                {
+                  "name": "Income",
+                  "size": 7500
+                },
+                {
+                  "name": "Age",
+                  "size": 380
+                },
+                {
+                  "name": "Gambler",
+                  "size": 1600
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 100
+                },
+                {
+                  "name": "Male",
+                  "size": 1500
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 900
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 2100
+                },
+                {
+                  "name": "Female",
+                  "size": 1500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New England",
+          "children": [
+            {
+              "name": "New England",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 1200
+                },
+                {
+                  "name": "Speeder",
+                  "size": 1400
+                },
+                {
+                  "name": "Income",
+                  "size": 8900
+                },
+                {
+                  "name": "Age",
+                  "size": 450
+                },
+                {
+                  "name": "Gambler",
+                  "size": 500
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 100
+                },
+                {
+                  "name": "Male",
+                  "size": 600
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 1000
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 600
+                },
+                {
+                  "name": "Female",
+                  "size": 1000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Middle Atlantic",
+          "children": [
+            {
+              "name": "Middle Atlantic",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 800
+                },
+                {
+                  "name": "Speeder",
+                  "size": 1000
+                },
+                {
+                  "name": "Income",
+                  "size": 9800
+                },
+                {
+                  "name": "Age",
+                  "size": 410
+                },
+                {
+                  "name": "Gambler",
+                  "size": 700
+                },
+                {
+                  "name": "Male",
+                  "size": 1100
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 600
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 800
+                },
+                {
+                  "name": "Female",
+                  "size": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "West South Central",
+          "children": [
+            {
+              "name": "West South Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 200
+                },
+                {
+                  "name": "Drinker",
+                  "size": 900
+                },
+                {
+                  "name": "Speeder",
+                  "size": 1100
+                },
+                {
+                  "name": "Income",
+                  "size": 7600
+                },
+                {
+                  "name": "Age",
+                  "size": 320
+                },
+                {
+                  "name": "Gambler",
+                  "size": 400
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 400
+                },
+                {
+                  "name": "Male",
+                  "size": 700
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 500
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 800
+                },
+                {
+                  "name": "Female",
+                  "size": 600
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "West North Central",
+          "children": [
+            {
+              "name": "West North Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 1400
+                },
+                {
+                  "name": "Speeder",
+                  "size": 1400
+                },
+                {
+                  "name": "Income",
+                  "size": 7500
+                },
+                {
+                  "name": "Age",
+                  "size": 380
+                },
+                {
+                  "name": "Gambler",
+                  "size": 1200
+                },
+                {
+                  "name": "Skydiver",
+                  "size": 200
+                },
+                {
+                  "name": "Male",
+                  "size": 1100
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 600
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 900
+                },
+                {
+                  "name": "Female",
+                  "size": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pacific",
+          "children": [
+            {
+              "name": "Pacific",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 300
+                },
+                {
+                  "name": "Drinker",
+                  "size": 2000
+                },
+                {
+                  "name": "Speeder",
+                  "size": 2400
+                },
+                {
+                  "name": "Income",
+                  "size": 8600
+                },
+                {
+                  "name": "Age",
+                  "size": 355
+                },
+                {
+                  "name": "Gambler",
+                  "size": 1100
+                },
+                {
+                  "name": "Male",
+                  "size": 1300
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 1100
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 1500
+                },
+                {
+                  "name": "Female",
+                  "size": 1300
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "Mountain",
+          "children": [
+            {
+              "name": "Mountain",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 200
+                },
+                {
+                  "name": "Drinker",
+                  "size": 700
+                },
+                {
+                  "name": "Speeder",
+                  "size": 700
+                },
+                {
+                  "name": "Income",
+                  "size": 6900
+                },
+                {
+                  "name": "Age",
+                  "size": 380
+                },
+                {
+                  "name": "Gambler",
+                  "size": 500
+                },
+                {
+                  "name": "Male",
+                  "size": 300
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 300
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 600
+                },
+                {
+                  "name": "Female",
+                  "size": 600
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "East South Central",
+          "children": [
+            {
+              "name": "East South Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 100
+                },
+                {
+                  "name": "Drinker",
+                  "size": 800
+                },
+                {
+                  "name": "Speeder",
+                  "size": 1000
+                },
+                {
+                  "name": "Income",
+                  "size": 6500
+                },
+                {
+                  "name": "Age",
+                  "size": 310
+                },
+                {
+                  "name": "Gambler",
+                  "size": 400
+                },
+                {
+                  "name": "Male",
+                  "size": 600
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 600
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 400
+                },
+                {
+                  "name": "Female",
+                  "size": 400
+                }
+              ]
+            }
+          ]
+    }
+      ]
+    },
+    {
+      "name": "Medium",
+      "children": [
+        {
+          "name": "East North Central",
+          "children": [
+            {
+              "name": "East North Central",
+              "children": [
+                {
+                  "name": "Cheater",
+                  "size": 400
+                },
+                {
+                  "name": "Drinker",
+                  "size": 1700
+                },
+                {
+                  "name": "Speeder",
+                  "size": 2100
+                },
+                {
+                  "name": "Income",
+                  "size": 8650
+                },
+                {
+                  "name": "Age",
+                  "size": 290
+                },
+                {
+                  "name": "Gambler",
+                  "size": 1100
+                },
+                {
+                  "name": "Male",
+                  "size": 1600
+                },
+                {
+                  "name": "Lottery A",
+                  "size": 1400
+                },
+                {
+                  "name": "Lottery B",
+                  "size": 800
+                },
+                {
+                  "name": "Female",
+                  "size": 600
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "South Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "New England",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Middle Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West North Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Pacific",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "Mountain",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "East South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medium Well",
+      "children": [
+        {
+          "name": "East North Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "South Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "New England",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Middle Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West North Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Pacific",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "Mountain",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "East South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Well Done",
+      "children": [
+        {
+          "name": "East North Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "South Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "New England",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Middle Atlantic",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "West North Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+          "name": "Pacific",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "Mountain",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        },
+        {
+
+          "name": "East South Central",
+          "children": [
+            {"name": "East North Central", "size": 3938},
+            {"name": "South Atlantic", "size": 3812},
+            {"name": "New England", "size": 6714},
+            {"name": "Middle Atlantic", "size": 743},
+            {"name": "West South Central", "size": 743},
+            {"name": "West North Central", "size": 743},
+            {"name": "Pacific", "size": 743},
+            {"name": "Mountain", "size": 743},
+            {"name": "East South Central", "size": 743}
+          ]
+        }
+      ]
+    }
+  ]
+}
