@@ -1,271 +1,283 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all" />
     <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="d3.layout.cloud.js"></script>
     <script src="uStates.js"></script>
-
+    <script src="https://use.fontawesome.com/4ff2c12546.js"></script>
 </head>
 <body>
-<h1 align="center">How you you like your steak?</h1>
 
+<div class="container-fluid" id="pageOne">
+    <h1 align="center">How you you like your steak?</h1>
+    <div id="meatMenu">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <img class="img-responsive" src="img/rare.png" title="Rare" />
+                    <h3>Rare</h3>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <img class="img-responsive" src="img/medRare.png" title="Medium Rare" />
+                    <h3>Medium Rare</h3>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <img class="img-responsive" src="img/medium.png" title="Medium" />
+                    <h3>Medium</h3>
+                </a>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <img class="img-responsive" src="img/medWell.png" title="Medium Well" />
+                    <h3>Medium Well</h3>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <img class="img-responsive" src="img/wellDone.png" title="Medium Well" />
+                    <h3>Well Done</h3>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="#map" class="steak">
+                    <h2 id="vegan">I don't eat steak</h2>
+                </a>
+            </div>
+        </div>
+    </div>
 
-<div class="vis" id="cloud">
-
-<script type="text/javascript">
-
-
-    var fill = d3.scale.category20();
-
-    var steakData = [],
-        width = 450,
-        height = 600;
-
-    d3.csv("steak.csv", function(data) {
-        data.forEach( function (d) {
-            steakData.push(d.doneness);
-        });
-
-        d3.layout.cloud().size([450, 600])
-            .words(steakData.map(function(d) {
-                return {text: d, size: 10 + Math.random() * 90};
-            }))
-            .rotate(function() { return ~~(Math.random() * 2) * 90; })
-            .font("Impact")
-            .fontSize(function(d) { return d.size; })
-            .on("end", draw)
-            .start();
-
-    });
-
-    function draw(words) {
-        d3.select("#cloud").append("svg")
-            .attr("width", 450)
-            .attr("height", 600)
-            .append("g")
-            .attr("transform", "translate(150,150)")
-            .selectAll("text")
-            .data(words)
-            .enter().append("text")
-            .style("font-size", function(d) { return d.size + "px"; })
-            .style("font-family", "Impact")
-            .style("fill", function(d, i) { return fill(i); })
-            .attr("text-anchor", "middle")
-            .attr("transform", function(d) {
-                return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-            })
-            .text(function(d) { return d.text; });
-    }
-</script>
+    <h1 class="blink chevron"><i class="fa fa-chevron-down" aria-hidden="true"></i></h1>
 
 </div>
+
+
 <!--Map Start-->
-<div id="map" class="vis2">
-    <div id="tooltip"></div>
-    <svg width="940" height="600" id="statesvg"></svg>
-    <script>
+<div class="container-fluid" id="pageTwo">
+    <div id="map" class="vis2">
+        <div id="tooltip"></div>
+        <svg class="img-responsive" width="940" height="600" id="statesvg"></svg>
+        <script>
 
-        function tooltipHtml(n, d){
-            return "<h4>"+n+"</h4><table>"+
-                "<tr><td>Rare</td><td>"+(d.low)+"</td></tr>"+
-                "<tr><td>Medium Rare</td><td>"+(d.avg)+"</td></tr>"+
-                "<tr><td>Medium</td><td>"+(d.high)+"</td></tr>"+
-                "<tr><td>Medium Well</td><td>"+(d.high)+"</td></tr>"+
-                "<tr><td>Well Done</td><td>"+(d.high)+"</td></tr>"+
-                "</table>";
-        }
+            function tooltipHtml(n, d){
+                return "<h4>"+n+"</h4><table>"+
+                    "<tr><td>Rare</td><td>"+(d.low)+"</td></tr>"+
+                    "<tr><td>Medium Rare</td><td>"+(d.avg)+"</td></tr>"+
+                    "<tr><td>Medium</td><td>"+(d.high)+"</td></tr>"+
+                    "<tr><td>Medium Well</td><td>"+(d.high)+"</td></tr>"+
+                    "<tr><td>Well Done</td><td>"+(d.high)+"</td></tr>"+
+                    "</table>";
+            }
 
-        var sampleData ={};
-        ["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
-            "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH",
-            "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT",
-            "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN",
-            "WI", "MO", "AR", "OK", "KS", "LS", "VA"]
-            .forEach(function(d){
-                var low=Math.round(100*Math.random()),
-                    mid=Math.round(100*Math.random()),
-                    high=Math.round(100*Math.random());
-                sampleData[d]={low:d3.min([low,mid,high]), high:d3.max([low,mid,high]),
-                    avg:Math.round((low+mid+high)/3), color:d3.interpolate("#ffffcc", "#800026")(low/100)};
-            });
+            var sampleData ={};
+            ["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
+                "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH",
+                "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT",
+                "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN",
+                "WI", "MO", "AR", "OK", "KS", "LS", "VA"]
+                .forEach(function(d){
+                    var low=Math.round(100*Math.random()),
+                        mid=Math.round(100*Math.random()),
+                        high=Math.round(100*Math.random());
+                    sampleData[d]={low:d3.min([low,mid,high]), high:d3.max([low,mid,high]),
+                        avg:Math.round((low+mid+high)/3), color:d3.interpolate("#ffffcc", "#800026")(low/100)};
+                });
 
 
-        uStates.draw("#statesvg", sampleData, tooltipHtml);
+            uStates.draw("#statesvg", sampleData, tooltipHtml);
 
-        //d3.select(self.frameElement).style("height", "600px");
-    </script>
+            //d3.select(self.frameElement).style("height", "600px");
+        </script>
+    </div>
+    <a class="button" href="#doughnut">Next Section</a>
+    <h1 class="blink chevron"><i class="fa fa-chevron-down" aria-hidden="true"></i></h1>
 </div>
 <br />
 <!--Map End-->
-<!-- Meat menu start-->
-<div id="meatMenu" width="100%" align="center">
-    <a href="#" class="steak">
-        <figure>
-            <img src="img/rare.png" title="Rare" />
-            <figcaption>Rare</figcaption>
-        </figure>
-    </a>
-    <a href="#" class="steak">
-        <figure>
-            <img src="img/medRare.png" title="Medium Rare" />
-            <figcaption>Medium Rare</figcaption>
-        </figure>
-    </a>
-    <a href="#" class="steak">
-        <figure>
-            <img src="img/medium.png" title="Medium" />
-            <figcaption>Medium</figcaption>
-        </figure>
-    </a>
-    <a href="#" class="steak">
-        <figure>
-            <img src="img/medWell.png" title="Medium Well" />
-            <figcaption>Medium Well</figcaption>
-        </figure>
-    </a>
-    <a href="#" class="steak">
-        <figure>
-            <img src="img/wellDone.png" title="Well Done" />
-            <figcaption>Well Done</figcaption>
-        </figure>
-    </a>
-</div>
-<!--Meat menu end-->
-<div id="genderFilter" align="center">
+<!--<div class="container-fluid" id="pageThree">-->
 
-            <input id="male" name="state-d" type="radio" checked="">
-            <label for="male" onclick="">Male</label>
+    <div id="doughnut" class="vis">
+        <script>
 
-            <input id="female" name="state-d" type="radio">
-            <label for="female" onclick="">Female</label>
+            var width = 460,
+                height = 320,
+                radius = Math.min(width, height) / 2;
 
-            <input id="all" name="state-d" type="radio">
-            <label for="all" onclick="">All</label>
+            var color = d3.scale.ordinal()
+                .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"]);
 
-            <a></a>
+            var arc = d3.svg.arc()
+                .outerRadius(radius - 10)
+                .innerRadius(radius - 70);
 
-</div>
-<div id="doughnut" class="vis">
-    <script>
+            var pie = d3.layout.pie()
+                .sort(null)
+                .value(function(d) { return d.population; });
 
-        var width = 460,
-            height = 320,
-            radius = Math.min(width, height) / 2;
+            var svg = d3.select("#doughnut").append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-        var color = d3.scale.ordinal()
-            .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"]);
+            d3.csv("steak.csv", type, function(error, data) {
+                if (error) throw error;
 
-        var arc = d3.svg.arc()
-            .outerRadius(radius - 10)
-            .innerRadius(radius - 70);
+                var g = svg.selectAll(".arc")
+                    .data(pie(data))
+                    .enter().append("g")
+                    .attr("class", "arc");
 
-        var pie = d3.layout.pie()
-            .sort(null)
-            .value(function(d) { return d.population; });
+                g.append("path")
+                    .attr("d", arc)
+                    .style("fill", function(d) { return color(d.data.type); });
+                /*g.append("path")
+                    .attr("d", arc)
+                    .style("fill", function(d) { return color(d.data.type); })
+                    .transition().delay(function(d, i) { return i * 500; }).duration(500)
+                    .attrTween('d', function(d) {
+                        var i = d3.interpolate(d.startAngle+0.1, d.endAngle);
+                        return function(t) {
+                            d.endAngle = i(t);
+                            return arc(d);
+                        }*/
 
-        var svg = d3.select("#doughnut").append("svg")
-            .attr("width", width)
-            .attr("height", height)
-            .append("g")
-            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+                g.append("text")
+                    .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
+                    .attr("dy", ".35em")
+                    .text(function(d) { return d.data.type; });
+            });
 
-        d3.csv("steak.csv", type, function(error, data) {
-            if (error) throw error;
+            function type(d) {
+                d.population = +d.population;
+                return d;
+            }
 
-            var g = svg.selectAll(".arc")
-                .data(pie(data))
-                .enter().append("g")
-                .attr("class", "arc");
+        </script>
 
-            g.append("path")
-                .attr("d", arc)
-                .style("fill", function(d) { return color(d.data.type); });
-            /*g.append("path")
-                .attr("d", arc)
-                .style("fill", function(d) { return color(d.data.type); })
-                .transition().delay(function(d, i) { return i * 500; }).duration(500)
-                .attrTween('d', function(d) {
-                    var i = d3.interpolate(d.startAngle+0.1, d.endAngle);
-                    return function(t) {
-                        d.endAngle = i(t);
-                        return arc(d);
-                    }*/
+    </div>
 
-            g.append("text")
-                .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
-                .attr("dy", ".35em")
-                .text(function(d) { return d.data.type; });
-        });
+    <div id="doughnut2" class="vis2">
+        <script>
 
-        function type(d) {
-            d.population = +d.population;
-            return d;
-        }
+            var width = 460,
+                height = 320,
+                radius = Math.min(width, height) / 2;
 
-    </script>
+            var color = d3.scale.ordinal()
+                .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"]);
 
-</div>
-<div id="doughnut2" class="vis2">
-    <script>
+            var arc = d3.svg.arc()
+                .outerRadius(radius - 10)
+                .innerRadius(radius - 70);
 
-        var width = 460,
-            height = 320,
-            radius = Math.min(width, height) / 2;
+            var pie = d3.layout.pie()
+                .sort(null)
+                .value(function(d) { return d.countAge; });
 
-        var color = d3.scale.ordinal()
-            .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"]);
+            var svg = d3.select("#doughnut2").append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-        var arc = d3.svg.arc()
-            .outerRadius(radius - 10)
-            .innerRadius(radius - 70);
+            d3.csv("steak.csv", type, function(error, data) {
+                if (error) throw error;
 
-        var pie = d3.layout.pie()
-            .sort(null)
-            .value(function(d) { return d.countAge; });
+                var g = svg.selectAll(".arc")
+                    .data(pie(data))
+                    .enter().append("g")
+                    .attr("class", "arc");
 
-        var svg = d3.select("#doughnut2").append("svg")
-            .attr("width", width)
-            .attr("height", height)
-            .append("g")
-            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+                g.append("path")
+                    .attr("d", arc)
+                    .style("fill", function(d) { return color(d.data.ageRange); });
+                /*g.append("path")
+                 .attr("d", arc)
+                 .style("fill", function(d) { return color(d.data.type); })
+                 .transition().delay(function(d, i) { return i * 500; }).duration(500)
+                 .attrTween('d', function(d) {
+                 var i = d3.interpolate(d.startAngle+0.1, d.endAngle);
+                 return function(t) {
+                 d.endAngle = i(t);
+                 return arc(d);
+                 }*/
 
-        d3.csv("steak.csv", type, function(error, data) {
-            if (error) throw error;
+                g.append("text")
+                    .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
+                    .attr("dy", ".35em")
+                    .text(function(d) { return d.data.ageRange; });
+            });
 
-            var g = svg.selectAll(".arc")
-                .data(pie(data))
-                .enter().append("g")
-                .attr("class", "arc");
+            function type(d) {
+                d.countAge = +d.countAge;
+                return d;
+            }
 
-            g.append("path")
-                .attr("d", arc)
-                .style("fill", function(d) { return color(d.data.ageRange); });
-            /*g.append("path")
-             .attr("d", arc)
-             .style("fill", function(d) { return color(d.data.type); })
-             .transition().delay(function(d, i) { return i * 500; }).duration(500)
-             .attrTween('d', function(d) {
-             var i = d3.interpolate(d.startAngle+0.1, d.endAngle);
-             return function(t) {
-             d.endAngle = i(t);
-             return arc(d);
-             }*/
+        </script>
 
-            g.append("text")
-                .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
-                .attr("dy", ".35em")
-                .text(function(d) { return d.data.ageRange; });
-        });
+    </div>
 
-        function type(d) {
-            d.countAge = +d.countAge;
-            return d;
-        }
+    <div class="vis" id="cloud">
 
-    </script>
+        <script type="text/javascript">
 
-</div>
+
+            var fill = d3.scale.category20();
+
+            var steakData = [],
+                    width = 450,
+                    height = 600;
+
+            d3.csv("steak.csv", function(data) {
+                data.forEach( function (d) {
+                    steakData.push(d.doneness);
+                });
+
+                d3.layout.cloud().size([450, 600])
+                        .words(steakData.map(function(d) {
+                            return {text: d, size: 10 + Math.random() * 90};
+                        }))
+                        .rotate(function() { return ~~(Math.random() * 2) * 90; })
+                        .font("Impact")
+                        .fontSize(function(d) { return d.size; })
+                        .on("end", draw)
+                        .start();
+
+            });
+
+            function draw(words) {
+                d3.select("#cloud").append("svg")
+                        .attr("width", 450)
+                        .attr("height", 600)
+                        .append("g")
+                        .attr("transform", "translate(150,150)")
+                        .selectAll("text")
+                        .data(words)
+                        .enter().append("text")
+                        .style("font-size", function(d) { return d.size + "px"; })
+                        .style("font-family", "Impact")
+                        .style("fill", function(d, i) { return fill(i); })
+                        .attr("text-anchor", "middle")
+                        .attr("transform", function(d) {
+                            return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+                        })
+                        .text(function(d) { return d.text; });
+            }
+        </script>
+
+    </div>
+
+<!--</div>-->
 
 
 </body>
