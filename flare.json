@@ -1,33 +1,33 @@
 {
-  "name": "steakEaters",
+  "names": "steakEaters",
   "children": [
     {
-      "name": "Rare",
+      "names": "Rare",
       "children": [
         {
-          "name": "East North Central: 1",
+          "names": "East North Central: 1",
           "children": [
             {
-              "name": "East North Central",
+              "names": "East North Central",
               "children": [
                 {
-                  "name": "Speeder: 1",
+                  "names": "Speeder: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker: 1",
+                  "names": "Drinker: 1",
                   "size": 100
                 },
                 {
-                  "name": "Income: Avg $50k",
-                  "size": 5000
+                  "names": "High School: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age: Avg 24",
+                  "names": "Age: Avg 24",
                   "size": 240
                 },
                 {
-                  "name": "Male: 1",
+                  "names": "Male: 1",
                   "size": 100
                 }
               ]
@@ -35,53 +35,61 @@
           ]
         },
         {
-          "name": "South Atlantic",
+          "names": "South Atlantic: 5",
           "children":  [
             {
-              "name": "South Atlantic",
+              "names": "South Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 3",
                   "size": 300
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 10000
+                  "names": "Graduate: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Some College: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Age: Avg 52",
                   "size": 524
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 3",
                   "size": 300
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 3",
                   "size": 300
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -89,37 +97,41 @@
           ]
         },
         {
-          "name": "New England",
+          "names": "New England: 2",
           "children": [
             {
-              "name": "New England",
+              "names": "New England",
               "children": [
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 2",
                   "size": 200
                 },
-                {
-                  "name": "Income",
-                  "size": 7500
+                  {
+                  "names": "Graduate: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Age: Avg 45",
                   "size": 450
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 1",
                   "size": 100
                 }
               ]
@@ -127,49 +139,61 @@
           ]
         },
         {
-          "name": "Middle Atlantic",
+          "names": "Middle Atlantic: 6",
           "children": [
             {
-              "name": "Middle Atlantic",
+              "names": "Middle Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 5",
                   "size": 500
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 10000
-                },
-                {
-                  "name": "Age",
-                  "size": 600
-                },
-                {
-                  "name": "Gambler",
-                  "size": 300
-                },
-                {
-                  "name": "Male",
-                  "size": 300
-                },
-                {
-                  "name": "Lottery A",
+                  "names": "Smoker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Graduate: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Some College: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Bachelor: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Age: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Gambler: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Male: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Lottery A: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery B",
+                  "size": 400
+                },
+                {
+                  "names": "Female",
                   "size": 300
                 }
               ]
@@ -177,49 +201,57 @@
           ]
         },
         {
-          "name": "West North Central",
+          "names": "West North Central: 3",
           "children": [
             {
-              "name": "West North Central",
+              "names": "West North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 3",
                   "size": 300
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 3",
                   "size": 300
                 },
                 {
-                  "name": "Income",
-                  "size": 5500
+                  "names": "Graduate: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
                 },
                 {
-                  "name": "Age",
+                  "names": "Age: Avg 33",
                   "size": 334
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Smoker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
-                  "size": 100
-                },
-                {
-                  "name": "Lottery A",
+                  "names": "Gambler: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Male: 1",
                   "size": 100
                 },
                 {
-                  "name": "Female",
+                  "names": "Lottery A: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery B: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Female: 2",
                   "size": 200
                 }
               ]
@@ -227,49 +259,61 @@
           ]
         },
         {
-          "name": "Pacific",
+          "names": "Pacific: 5",
           "children": [
             {
-              "name": "Pacific",
+              "names": "Pacific",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 2",
                   "size": 200
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 5",
                   "size": 500
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 4500
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 41",
                   "size": 410
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 3",
                   "size": 300
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -280,56 +324,72 @@
       ]
     },
     {
-      "name": "Medium Rare",
+      "names": "Medium Rare",
       "children": [
         {
-          "name": "East North Central",
+          "names": "East North Central: 24",
           "children": [
             {
-              "name": "East North Central",
+              "names": "East North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 20",
                   "size": 2000
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 23",
                   "size": 2300
                 },
                 {
-                  "name": "Income",
-                  "size": 8100
+                  "names": "Graduate: 6",
+                  "size": 600
                 },
                 {
-                  "name": "Age",
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Some College: 9",
+                  "size": 900
+                },
+                  {
+                  "names": "Bachelor: 8",
+                  "size": 800
+                },
+                {
+                  "names": "Smoker: 7",
+                  "size": 700
+                },
+                {
+                  "names": "Age: Avg 42",
                   "size": 424
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 12",
                   "size": 1200
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 9",
                   "size": 900
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 15",
                   "size": 1500
                 }
               ]
@@ -337,53 +397,69 @@
           ]
         },
         {
-          "name": "South Atlantic",
+          "names": "South Atlantic: 30",
           "children": [
             {
-              "name": "South Atlantic",
+              "names": "South Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 6",
                   "size": 600
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 23",
                   "size": 2300
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 27",
                   "size": 2700
                 },
                 {
-                  "name": "Income",
-                  "size": 7500
+                  "names": "Graduate: 9",
+                  "size": 900
+                },
+                  {
+                  "names": "Some College: 8",
+                  "size": 800
+                },
+                  {
+                  "names": "High School: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Bachelor: 9",
+                  "size": 900
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 5",
+                  "size": 500
+                },
+                {
+                  "names": "Age: Avg 38",
                   "size": 380
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 10",
                   "size": 1600
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 15",
                   "size": 1500
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 9",
                   "size": 900
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 21",
                   "size": 2100
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 15",
                   "size": 1500
                 }
               ]
@@ -391,53 +467,61 @@
           ]
         },
         {
-          "name": "New England",
+          "names": "New England: 16",
           "children": [
             {
-              "name": "New England",
+              "names": "New England",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 12",
                   "size": 1200
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Income",
-                  "size": 8900
+                  "names": "Graduate: 7",
+                  "size": 700
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 7",
+                  "size": 700
                 },
                 {
-                  "name": "Age",
+                  "names": "Age: Avg 45",
                   "size": 450
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 5",
                   "size": 500
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 6",
                   "size": 600
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 10",
                   "size": 1000
                 }
               ]
@@ -445,49 +529,65 @@
           ]
         },
         {
-          "name": "Middle Atlantic",
+          "names": "Middle Atlantic: 14",
           "children": [
             {
-              "name": "Middle Atlantic",
+              "names": "Middle Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 8",
                   "size": 800
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Income",
-                  "size": 9800
+                  "names": "Graduate: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Some College: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Bachelor: 5",
+                  "size": 500
+                },
+                 {
+                  "names": "High School: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Age: Avg 41",
                   "size": 410
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 7",
                   "size": 700
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 8",
                   "size": 800
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -495,53 +595,69 @@
           ]
         },
         {
-          "name": "West South Central",
+          "names": "West South Central: 13",
           "children": [
             {
-              "name": "West South Central",
+              "names": "West South Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 2",
                   "size": 200
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 9",
                   "size": 900
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Income",
-                  "size": 7600
+                  "names": "Graduate: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Some College: 6",
+                  "size": 600
+                },
+                  {
+                  "names": "Bachelor: 2",
+                  "size": 200
+                },
+                   {
+                  "names": "High School: 2",
+                  "size": 200
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 32",
                   "size": 320
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 4",
                   "size": 400
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 4",
                   "size": 400
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 7",
                   "size": 700
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 5",
                   "size": 500
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 8",
                   "size": 800
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 6",
                   "size": 600
                 }
               ]
@@ -549,53 +665,65 @@
           ]
         },
         {
-          "name": "West North Central",
+          "names": "West North Central: 16",
           "children": [
             {
-              "name": "West North Central",
+              "names": "West North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Income",
-                  "size": 7500
+                  "names": "Graduate: 5",
+                  "size": 500
+                },
+                  {
+                  "names": "Some College: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Bachelor: 7",
+                  "size": 700
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 38",
                   "size": 380
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 12",
                   "size": 1200
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 9",
                   "size": 900
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 5",
                   "size": 500
                 }
               ]
@@ -603,100 +731,132 @@
           ]
         },
         {
-          "name": "Pacific",
+          "names": "Pacific: 26",
           "children": [
             {
-              "name": "Pacific",
+              "names": "Pacific",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 20",
                   "size": 2000
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 24",
                   "size": 2400
                 },
                 {
-                  "name": "Income",
-                  "size": 8600
+                  "names": "Graduate: 7",
+                  "size": 700
                 },
-                {
-                  "name": "Age",
-                  "size": 355
-                },
-                {
-                  "name": "Gambler",
+                  {
+                  "names": "Some College: 11",
                   "size": 1100
                 },
-                {
-                  "name": "Male",
-                  "size": 1300
+                  {
+                  "names": "Bachelor: 6",
+                  "size": 600
                 },
-                {
-                  "name": "Lottery A",
-                  "size": 1100
-                },
-                {
-                  "name": "Lottery B",
-                  "size": 1500
-                },
-                {
-                  "name": "Female",
-                  "size": 1300
-                }
-              ]
-            }
-          ]
-        },
-        {
-
-          "name": "Mountain",
-          "children": [
-            {
-              "name": "Mountain",
-              "children": [
-                {
-                  "name": "Cheater",
+                   {
+                  "names": "High School: 2",
                   "size": 200
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Smoker: 7",
                   "size": 700
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Age: Avg 36",
+                  "size": 355
+                },
+                {
+                  "names": "Gambler: 11",
+                  "size": 1100
+                },
+                {
+                  "names": "Male: 13",
+                  "size": 1300
+                },
+                {
+                  "names": "Lottery A: 11",
+                  "size": 1100
+                },
+                {
+                  "names": "Lottery B: 15",
+                  "size": 1500
+                },
+                {
+                  "names": "Female: 13",
+                  "size": 1300
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "names": "Mountain: 9",
+          "children": [
+            {
+              "names": "Mountain",
+              "children": [
+                {
+                  "names": "Cheater: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Drinker: 7",
                   "size": 700
                 },
                 {
-                  "name": "Income",
-                  "size": 6900
+                  "names": "Speeder: 7",
+                  "size": 700
                 },
                 {
-                  "name": "Age",
+                  "names": "Graduate: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Some College: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
+                },
+                   {
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Smoker: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Age: Avg 38",
                   "size": 380
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 5",
                   "size": 500
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 6",
                   "size": 600
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 6",
                   "size": 600
                 }
               ]
@@ -705,49 +865,65 @@
         },
         {
 
-          "name": "East South Central",
+          "names": "East South Central: 10",
           "children": [
             {
-              "name": "East South Central",
+              "names": "East South Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 8",
                   "size": 800
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Income",
-                  "size": 6500
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Some College: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Bachelor: 2",
+                  "size": 200
+                },
+                   {
+                  "names": "High School: 3",
+                  "size": 300
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Age: Avg 31",
                   "size": 310
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 4",
                   "size": 400
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 4",
                   "size": 400
                 }
               ]
@@ -757,52 +933,68 @@
       ]
     },
     {
-      "name": "Medium",
+      "names": "Medium",
       "children": [
         {
-          "name": "East North Central",
+          "names": "East North Central: 22",
           "children": [
             {
-              "name": "East North Central",
+              "names": "East North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 4",
                   "size": 400
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 17",
                   "size": 1700
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 21",
                   "size": 2100
                 },
                 {
-                  "name": "Income",
-                  "size": 8650
+                  "names": "Graduate: 6",
+                  "size": 600
+                },
+                  {
+                  "names": "Some College: 7",
+                  "size": 700
+                },
+                  {
+                  "names": "Bachelor: 7",
+                  "size": 700
                 },
                 {
-                  "name": "Age",
+                  "names": "High School: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Smoker: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Age: Avg 22",
                   "size": 290
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 16",
                   "size": 1600
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 8",
                   "size": 800
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 6",
                   "size": 600
                 }
               ]
@@ -810,53 +1002,65 @@
           ]
         },
         {
-          "name": "South Atlantic",
+          "names": "South Atlantic: 20",
           "children": [
             {
-              "name": "South Atlantic",
+              "names": "South Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 16",
                   "size": 1600
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 19",
                   "size": 1900
                 },
                 {
-                  "name": "Income",
-                  "size": 8965
+                  "names": "Graduate: 2",
+                  "size": 200
                 },
-                {
-                  "name": "Age",
-                  "size": 490
+                  {
+                  "names": "Some College: 9",
+                  "size": 900
                 },
-                {
-                  "name": "Gambler",
-                  "size": 1100
-                },
-                {
-                  "name": "Skydiver",
-                  "size": 100
-                },
-                {
-                  "name": "Male",
-                  "size": 1300
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 1100
-                },
-                {
-                  "name": "Lottery B",
+                  {
+                  "names": "Bachelor: 9",
                   "size": 900
                 },
                 {
-                  "name": "Female",
+                  "names": "Smoker: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Age: Avg 49",
+                  "size": 490
+                },
+                {
+                  "names": "Gambler: 11",
+                  "size": 1100
+                },
+                {
+                  "names": "Skydiver: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Male: 13",
+                  "size": 1300
+                },
+                {
+                  "names": "Lottery A: 11",
+                  "size": 1100
+                },
+                {
+                  "names": "Lottery B: 9",
+                  "size": 900
+                },
+                {
+                  "names": "Female: 7",
                   "size": 700
                 }
               ]
@@ -864,49 +1068,65 @@
           ]
         },
         {
-          "name": "New England",
+          "names": "New England: 10",
           "children": [
             {
-              "name": "New England",
+              "names": "New England",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 2",
                   "size": 200
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 8",
                   "size": 800
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Income",
-                  "size": 8762
+                  "names": "Graduate: 2",
+                  "size": 200
                 },
-                {
-                  "name": "Age",
-                  "size": 590
+                  {
+                  "names": "Some College: 3",
+                  "size": 300
                 },
-                {
-                  "name": "Gambler",
-                  "size": 600
+                  {
+                  "names": "Bachelor: 4",
+                  "size": 400
                 },
-                {
-                  "name": "Male",
+                  {
+                  "names": "High School: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Smoker: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Age: Avg 9",
+                  "size": 590
+                },
+                {
+                  "names": "Gambler: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Male: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Lottery A: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery B: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 9",
                   "size": 900
                 }
               ]
@@ -914,54 +1134,70 @@
           ]
         },
         {
-          "name": "Middle Atlantic",
+          "names": "Middle Atlantic: 18",
           "children": [
             {
-              "name": "Middle Atlantic",
+              "names": "Middle Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 8",
                   "size": 800
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 16",
                   "size": 1600
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 15",
                   "size": 1500
                 },
                 {
-                  "name": "Income",
-                  "size": 10375
+                  "names": "Graduate: 7",
+                  "size": 700
+                },
+                  {
+                  "names": "Some College: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "Bachelor: 6",
+                  "size": 600
+                },
+                   {
+                  "names": "High School: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 47",
                   "size": 470
                 },
 
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 2",
                   "size": 200
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 9",
                   "size": 900
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 13",
                   "size": 1300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 5",
                   "size": 500
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 7",
                   "size": 700
                 }
               ]
@@ -969,53 +1205,61 @@
           ]
         },
         {
-          "name": "West South Central",
+          "names": "West South Central: 6",
           "children": [
             {
-              "name": "West South Central",
+              "names": "West South Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 4",
                   "size": 400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 6",
                   "size": 600
                 },
                 {
-                  "name": "Income",
-                  "size": 9333
+                  "names": "Some College: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Bachelor: 5",
+                  "size": 500
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 33",
                   "size": 330
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 3",
                   "size": 300
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 4",
                   "size": 400
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 2",
                   "size": 200
                 }
               ]
@@ -1023,49 +1267,61 @@
           ]
         },
         {
-          "name": "West North Central",
+          "names": "West North Central: 11",
           "children": [
             {
-              "name": "West North Central",
+              "names": "West North Central",
               "children": [
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 11",
                   "size": 1100
                 },
                 {
-                  "name": "Income",
-                  "size": 8710
+                  "names": "Graduate: 7",
+                  "size": 700
+                },
+                  {
+                  "names": "High School: 3",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 29",
                   "size": 290
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 5",
                   "size": 500
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 4",
                   "size": 400
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 7",
                   "size": 700
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 7",
                   "size": 700
                 }
               ]
@@ -1073,53 +1329,69 @@
           ]
         },
         {
-          "name": "Pacific",
+          "names": "Pacific: 24",
           "children": [
             {
-              "name": "Pacific",
+              "names": "Pacific",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 21",
                   "size": 2100
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 22",
                   "size": 2200
                 },
                 {
-                  "name": "Income",
-                  "size": 7472
+                  "names": "Graduate: 6",
+                  "size": 600
+                },
+                  {
+                  "names": "Some College: 9",
+                  "size": 900
+                },
+                  {
+                  "names": "Bachelor: 8",
+                  "size": 800
                 },
                 {
-                  "name": "Age",
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Smoker: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Age: Avg 37",
                   "size": 370
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 2",
                   "size": 200
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 19",
                   "size": 1900
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 16",
                   "size": 1600
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 12",
                   "size": 1200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 12",
                   "size": 1200
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 8",
                   "size": 800
                 }
               ]
@@ -1128,49 +1400,65 @@
         },
         {
 
-          "name": "Mountain",
+          "names": "Mountain: 11",
           "children": [
             {
-              "name": "Mountain",
+              "names": "Mountain",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 9",
                   "size": 900
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 10",
                   "size": 1000
                 },
                 {
-                  "name": "Income",
-                  "size": 7890
+                  "names": "Graduate: 1",
+                  "size": 100
                 },
-                {
-                  "name": "Age",
-                  "size": 420
+                  {
+                  "names": "Some College: 4",
+                  "size": 400
                 },
-                {
-                  "name": "Gambler",
-                  "size": 600
+                  {
+                  "names": "Bachelor: 4",
+                  "size": 400
                 },
-                {
-                  "name": "Male",
+                  {
+                  "names": "High School: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Smoker: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Age: Avg 42",
+                  "size": 420
+                },
+                {
+                  "names": "Gambler: 6",
                   "size": 600
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Male: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Lottery A: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery B: 4",
                   "size": 400
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 5",
                   "size": 500
                 }
               ]
@@ -1179,53 +1467,61 @@
         },
         {
 
-          "name": "East South Central",
+          "names": "East South Central: 4",
           "children": [
             {
-              "name": "East South Central",
+              "names": "East South Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 3",
                   "size": 300
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 3",
                   "size": 300
                 },
                 {
-                  "name": "Income",
-                  "size": 9000
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 43",
                   "size": 430
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 3",
                   "size": 300
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 2",
                   "size": 200
                 }
               ]
@@ -1235,52 +1531,64 @@
       ]
     },
     {
-      "name": "Medium Well",
+      "names": "Medium Well",
       "children": [
         {
-          "name": "East North Central",
+          "names": "East North Central: 11",
           "children": [
             {
-              "name": "East North Central",
+              "names": "East North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 9",
                   "size": 900
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 9",
                   "size": 900
                 },
                 {
-                  "name": "Income",
-                  "size": 6920
+                  "names": "Graduate: 4",
+                  "size": 400
                 },
                 {
-                  "name": "Age",
+                  "names": "Some College: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Bachelor: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Smoker: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Age: Avg 31",
                   "size": 310
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 4",
                   "size": 400
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 5",
                   "size": 500
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 4",
                   "size": 400
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 6",
                   "size": 600
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 6",
                   "size": 600
                 }
               ]
@@ -1288,161 +1596,65 @@
           ]
         },
         {
-          "name": "South Atlantic",
+          "names": "South Atlantic: 15",
           "children": [
             {
-              "name": "South Atlantic",
+              "names": "South Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 5",
                   "size": 500
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 14",
                   "size": 1400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 15",
                   "size": 1500
                 },
                 {
-                  "name": "Income",
-                  "size": 6300
+                  "names": "Graduate: 3",
+                  "size": 300
                 },
                 {
-                  "name": "Age",
-                  "size": 340
-                },
-                {
-                  "name": "Skydiver",
-                  "size": 200
-                },
-                {
-                  "name": "Gambler",
-                  "size": 800
-                },
-                {
-                  "name": "Male",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery B",
-                  "size": 800
-                },
-                {
-                  "name": "Female",
-                  "size": 800
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "New England",
-          "children": [
-            {
-              "name": "New England",
-              "children": [
-                {
-                  "name": "Cheater",
-                  "size": 500
-                },
-                {
-                  "name": "Drinker",
-                  "size": 1400
-                },
-                {
-                  "name": "Speeder",
-                  "size": 1500
-                },
-                {
-                  "name": "Income",
-                  "size": 6300
-                },
-                {
-                  "name": "Age",
-                  "size": 340
-                },
-                {
-                  "name": "Skydiver",
-                  "size": 200
-                },
-                {
-                  "name": "Gambler",
-                  "size": 800
-                },
-                {
-                  "name": "Male",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery B",
-                  "size": 800
-                },
-                {
-                  "name": "Female",
-                  "size": 800
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Middle Atlantic",
-          "children": [
-            {
-              "name": "Middle Atlantic",
-              "children": [
-                {
-                  "name": "Cheater",
-                  "size": 100
-                },
-                {
-                  "name": "Drinker",
-                  "size": 1000
-                },
-                {
-                  "name": "Speeder",
-                  "size": 1000
-                },
-                {
-                  "name": "Income",
-                  "size": 8254
-                },
-                {
-                  "name": "Age",
-                  "size": 360
-                },
-                {
-                  "name": "Skydiver",
-                  "size": 200
-                },
-                {
-                  "name": "Gambler",
-                  "size": 600
-                },
-                {
-                  "name": "Male",
-                  "size": 500
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery B",
+                  "names": "Some College: 7",
                   "size": 700
                 },
                 {
-                  "name": "Female",
+                  "names": "Bachelor: 5",
+                  "size": 500
+                },
+                {
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 34",
+                  "size": 340
+                },
+                {
+                  "names": "Skydiver: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Gambler: 8",
+                  "size": 800
+                },
+                {
+                  "names": "Male: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery A: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery B: 8",
+                  "size": 800
+                },
+                {
+                  "names": "Female: 8",
                   "size": 800
                 }
               ]
@@ -1450,99 +1662,57 @@
           ]
         },
         {
-          "name": "West South Central",
+          "names": "New England: 5",
           "children": [
             {
-              "name": "West South Central",
+              "names": "New England",
               "children": [
                 {
-                  "name": "Cheater",
-                  "size": 100
-                },
-                {
-                  "name": "Drinker",
-                  "size": 200
-                },
-                {
-                  "name": "Speeder",
-                  "size": 300
-                },
-                {
-                  "name": "Income",
-                  "size": 4550
-                },
-                {
-                  "name": "Age",
-                  "size": 300
-                },
-                {
-                  "name": "Gambler",
-                  "size": 200
-                },
-                {
-                  "name": "Male",
-                  "size": 100
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 200
-                },
-                {
-                  "name": "Lottery B",
-                  "size": 100
-                },
-                {
-                  "name": "Female",
-                  "size": 200
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "West North Central",
-          "children": [
-            {
-              "name": "West North Central",
-              "children": [
-                {
-                  "name": "Cheater",
-                  "size": 100
-                },
-                {
-                  "name": "Drinker",
-                  "size": 400
-                },
-                {
-                  "name": "Speeder",
+                  "names": "Cheater: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 9166
+                  "names": "Drinker: 2",
+                  "size": 200
                 },
                 {
-                  "name": "Age",
-                  "size": 580
+                  "names": "Speeder: 5",
+                  "size": 500
                 },
                 {
-                  "name": "Gambler",
+                  "names": "High School: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Some College: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
-                  "size": 300
-                },
-                {
-                  "name": "Lottery B",
+                  "names": "Bachelor: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Age: 46",
+                  "size": 460
+                },
+                {
+                  "names": "Skydiver: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Male: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery A: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Lottery B: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -1550,49 +1720,247 @@
           ]
         },
         {
-          "name": "Pacific",
+          "names": "Middle Atlantic: 13",
           "children": [
             {
-              "name": "Pacific",
+              "names": "Middle Atlantic",
               "children": [
                 {
-                  "name": "Drinker",
+                  "names": "Cheater: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Drinker: 10",
+                  "size": 1000
+                },
+                {
+                  "names": "Speeder: 10",
+                  "size": 1000
+                },
+                {
+                  "names": "Graduate: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Some College: 6",
                   "size": 600
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Bachelor: 1",
+                  "size": 100
+                },
+                   {
+                  "names": "High School: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Smoker: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Age: Avg 43",
+                  "size": 430
+                },
+                {
+                  "names": "Skydiver: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Gambler: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Male: 5",
+                  "size": 500
+                },
+                {
+                  "names": "Lottery A: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery B: 7",
                   "size": 700
                 },
                 {
-                  "name": "Income",
-                  "size": 8800
-                },
+                  "names": "Female: 8",
+                  "size": 800
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "names": "West South Central: 3",
+          "children": [
+            {
+              "names": "West South Central",
+              "children": [
                 {
-                  "name": "Age",
-                  "size": 530
-                },
-                {
-                  "name": "Skydiver",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
-                  "size": 400
-                },
-                {
-                  "name": "Male",
-                  "size": 600
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 500
-                },
-                {
-                  "name": "Lottery B",
+                  "names": "Drinker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Speeder: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Some College: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 37",
+                  "size": 370
+                },
+                {
+                  "names": "Gambler: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Male: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Lottery A: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery B: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Female: 2",
+                  "size": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "names": "West North Central: 5",
+          "children": [
+            {
+              "names": "West North Central",
+              "children": [
+                {
+                  "names": "Cheater: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Drinker: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Speeder: 5",
+                  "size": 500
+                },
+                {
+                  "names": "Graduate: 1",
+                  "size": 100
+                },
+                {
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Bachelor: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 51",
+                  "size": 510
+                },
+                {
+                  "names": "Gambler: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Male: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery A: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Lottery B: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Female: 3",
+                  "size": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "names": "Pacific: 7",
+          "children": [
+            {
+              "names": "Pacific",
+              "children": [
+                {
+                  "names": "Drinker: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Speeder: 7",
+                  "size": 700
+                },
+                {
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Some College: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Bachelor: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 54",
+                  "size": 540
+                },
+                {
+                  "names": "Skydiver: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Gambler: 4",
+                  "size": 400
+                },
+                {
+                  "names": "Male: 6",
+                  "size": 600
+                },
+                {
+                  "names": "Lottery A: 5",
+                  "size": 500
+                },
+                {
+                  "names": "Lottery B: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Female: 1",
                   "size": 100
                 }
               ]
@@ -1601,45 +1969,57 @@
         },
         {
 
-          "name": "Mountain",
+          "names": "Mountain: 8",
           "children": [
             {
-              "name": "Mountain",
+              "names": "Mountain",
               "children": [
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 6",
                   "size": 600
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 7",
                   "size": 700
                 },
                 {
-                  "name": "Income",
-                  "size": 6750
+                  "names": "Graduate: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
-                  "size": 440
+                  "names": "Some College: 6",
+                  "size": 600
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Bachelor: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 45",
+                  "size": 450
+                },
+                {
+                  "names": "Gambler: 3",
                   "size": 300
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 4",
                   "size": 400
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 5",
                   "size": 500
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 3",
                   "size": 300
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 4",
                   "size": 400
                 }
               ]
@@ -1648,37 +2028,41 @@
         },
         {
 
-          "name": "East South Central",
+          "names": "East South Central: 3",
           "children": [
             {
-              "name": "East South Central",
+              "names": "East South Central",
               "children": [
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 1",
                   "size": 100
                 },
                 {
-                  "name": "Income",
-                  "size": 9500
-                },
-                {
-                  "name": "Age",
-                  "size": 590
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Graduate: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Some College: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Age: Avg 48",
+                  "size": 480
+                },
+                {
+                  "names": "Gambler: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Male: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Lottery B: 3",
                   "size": 300
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 1",
                   "size": 100
                 }
               ]
@@ -1688,56 +2072,64 @@
       ]
     },
     {
-      "name": "Well Done",
+      "names": "Well Done",
       "children": [
         {
-          "name": "East North Central",
+          "names": "East North Central: 7",
           "children": [
             {
-              "name": "East North Central",
+              "names": "East North Central",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 2",
                   "size": 200
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 6",
                   "size": 600
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 7275
+                  "names": "Graduate: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Some College: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "High School: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
-                  "size": 390
+                  "names": "Age: Avg 44",
+                  "size": 445
                 },
                 {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Gambler: 4",
                   "size": 400
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 5",
                   "size": 500
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 5",
                   "size": 500
                 }
               ]
@@ -1745,53 +2137,57 @@
           ]
         },
         {
-          "name": "South Atlantic",
+          "names": "South Atlantic: 5",
           "children": [
             {
-              "name": "South Atlantic",
+              "names": "South Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 4",
+                  "size": 400
+                },
+                  {
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Bachelor: 4",
                   "size": 400
                 },
                 {
-                  "name": "Income",
-                  "size": 9320
+                  "names": "Smoker: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
-                  "size": 320
+                  "names": "Age: Avg 46",
+                  "size": 460
                 },
                 {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Gambler: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 2",
                   "size": 200
                 }
               ]
@@ -1799,53 +2195,37 @@
           ]
         },
         {
-          "name": "New England",
+          "names": "New England: 1",
           "children": [
             {
-              "name": "New England",
+              "names": "New England",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 1",
                   "size": 100
                 },
                 {
-                  "name": "Drinker",
-                  "size": 0
+                  "names": "Speeder: 1",
+                  "size": 100
                 },
-                {
-                  "name": "Speeder",
+                  {
+                  "names": "Some College: 1",
                   "size": 100
                 },
                 {
-                  "name": "Income",
-                  "size": 3500
-                },
-                {
-                  "name": "Age",
+                  "names": "Age: Avg 23",
                   "size": 230
                 },
                 {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Gambler: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
-                  "size": 0
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 0
-                },
-                {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 1",
                   "size": 100
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 1",
                   "size": 100
                 }
               ]
@@ -1853,53 +2233,69 @@
           ]
         },
         {
-          "name": "Middle Atlantic",
+          "names": "Middle Atlantic: 6",
           "children": [
             {
-              "name": "Middle Atlantic",
+              "names": "Middle Atlantic",
               "children": [
                 {
-                  "name": "Cheater",
+                  "names": "Cheater: 3",
                   "size": 300
                 },
                 {
-                  "name": "Drinker",
+                  "names": "Drinker: 4",
                   "size": 400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 4",
                   "size": 400
                 },
                 {
-                  "name": "Income",
-                  "size": 12500
+                  "names": "Graduate: 1",
+                  "size": 100
                 },
-                {
-                  "name": "Age",
-                  "size": 320
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
                 },
-                {
-                  "name": "Skydiver",
+                  {
+                  "names": "Bachelor: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
+                  "names": "High School: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 37",
+                  "size": 370
+                },
+                {
+                  "names": "Skydiver: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Gambler: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 3",
                   "size": 300
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -1907,107 +2303,107 @@
           ]
         },
         {
-          "name": "West South Central",
+          "names": "West South Central: 2",
           "children": [
             {
-              "name": "West South Central",
+              "names": "West South Central",
               "children": [
                 {
-                  "name": "Cheater",
-                  "size": 0
-                },
-                {
-                  "name": "Drinker",
+                  "names": "Drinker: 2",
                   "size": 200
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 2",
                   "size": 200
                 },
                 {
-                  "name": "Income",
-                  "size": 2500
+                  "names": "High School: 1",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
                 },
                 {
-                  "name": "Age",
+                  "names": "Smoker: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 42",
                   "size": 420
                 },
                 {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Gambler: 1",
                   "size": 100
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 1",
                   "size": 100
-                },
-                {
-                  "name": "Female",
-                  "size": 0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Pacific",
+          "names": "Pacific: 5",
           "children": [
             {
-              "name": "Pacific",
+              "names": "Pacific",
               "children": [
                 {
-                  "name": "Cheater",
-                  "size": 0
-                },
-                {
-                  "name": "Drinker",
+                  "names": "Drinker: 4",
                   "size": 400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 5",
                   "size": 500
                 },
                 {
-                  "name": "Income",
-                  "size": 8750
+                  "names": "Less than High School: 1",
+                  "size": 200
                 },
-                {
-                  "name": "Age",
-                  "size": 400
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
                 },
-                {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
-                  "size": 300
-                },
-                {
-                  "name": "Male",
+                  {
+                  "names": "Bachelor: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Smoker: 3",
                   "size": 300
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Age: Avg 42",
+                  "size": 420
+                },
+                {
+                  "names": "Gambler: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Female",
+                  "names": "Lottery A: 3",
+                  "size": 300
+                },
+                {
+                  "names": "Lottery B: 2",
+                  "size": 200
+                },
+                {
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
@@ -2016,53 +2412,57 @@
         },
         {
 
-          "name": "Mountain",
+          "names": "Mountain: 6",
           "children": [
             {
-              "name": "Mountain",
+              "names": "Mountain",
               "children": [
                 {
-                  "name": "Cheater",
-                  "size": 0
-                },
-                {
-                  "name": "Drinker",
+                  "names": "Drinker: 4",
                   "size": 400
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 4",
                   "size": 400
                 },
                 {
-                  "name": "Income",
-                  "size": 9166
+                  "names": "Graduate: 1",
+                  "size": 100
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 3",
+                  "size": 300
                 },
                 {
-                  "name": "Age",
-                  "size": 430
+                  "names": "Age: Avg 48",
+                  "size": 480
                 },
                 {
-                  "name": "Skydiver",
+                  "names": "Skydiver: 1",
                   "size": 100
                 },
                 {
-                  "name": "Gambler",
+                  "names": "Gambler: 2",
                   "size": 200
                 },
                 {
-                  "name": "Male",
+                  "names": "Male: 2",
                   "size": 200
                 },
                 {
-                  "name": "Lottery A",
+                  "names": "Lottery A: 1",
                   "size": 100
                 },
                 {
-                  "name": "Lottery B",
+                  "names": "Lottery B: 5",
                   "size": 500
                 },
                 {
-                  "name": "Female",
+                  "names": "Female: 4",
                   "size": 400
                 }
               ]
@@ -2071,53 +2471,41 @@
         },
         {
 
-          "name": "East South Central",
+          "names": "East South Central: 3",
           "children": [
             {
-              "name": "East South Central",
+              "names": "East South Central",
               "children": [
                 {
-                  "name": "Cheater",
-                  "size": 0
-                },
-                {
-                  "name": "Drinker",
+                  "names": "Drinker: 1",
                   "size": 100
                 },
                 {
-                  "name": "Speeder",
+                  "names": "Speeder: 3",
+                  "size": 300
+                },
+                  {
+                  "names": "Some College: 2",
+                  "size": 200
+                },
+                  {
+                  "names": "Bachelor: 1",
+                  "size": 100
+                },
+                {
+                  "names": "Age: Avg 50",
+                  "size": 500
+                },
+                {
+                  "names": "Gambler: 3",
                   "size": 300
                 },
                 {
-                  "name": "Income",
-                  "size": 12500
-                },
-                {
-                  "name": "Age",
-                  "size": 420
-                },
-                {
-                  "name": "Skydiver",
-                  "size": 0
-                },
-                {
-                  "name": "Gambler",
+                  "names": "Lottery A: 3",
                   "size": 300
                 },
                 {
-                  "name": "Male",
-                  "size": 0
-                },
-                {
-                  "name": "Lottery A",
-                  "size": 300
-                },
-                {
-                  "name": "Lottery B",
-                  "size": 0
-                },
-                {
-                  "name": "Female",
+                  "names": "Female: 3",
                   "size": 300
                 }
               ]
