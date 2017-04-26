@@ -221,3 +221,6 @@ figure {
     pointer-events: none;
 }
 
+.modal-header h3{
+    color: #333333;
+}
